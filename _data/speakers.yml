@@ -14,7 +14,7 @@
   company: ""
   title: ""
   bio: ""
-  thumbnailUrl: PeterVos.jpg
+#   thumbnailUrl: PeterVos.jpg
   rockstar: true
 - 
   id: 4
@@ -23,7 +23,7 @@
   company: ""
   title: ""
   bio: ""
-  thumbnailUrl: FrankSteggink.jpg
+#   thumbnailUrl: FrankSteggink.jpg
   rockstar: true
 - 
   id: 5
@@ -32,7 +32,7 @@
   company: "Just Objects"
   title: "Open Source Geospatial Professional"
   bio: ""
-  thumbnailUrl: JustvandenBroecke.jpg
+#   thumbnailUrl: JustvandenBroecke.jpg
   rockstar: true
 - 
   id: 6
@@ -41,7 +41,7 @@
   company: ""
   title: ""
   bio: ""
-  thumbnailUrl: PaulMeems.jpg
+#   thumbnailUrl: PaulMeems.jpg
   rockstar: true
 - 
   id: 7
@@ -50,7 +50,7 @@
   company: ""
   title: ""
   bio: ""
-  thumbnailUrl: SiebeBosch.jpg
+#   thumbnailUrl: SiebeBosch.jpg
   rockstar: true
 - 
   id: 8
@@ -59,7 +59,7 @@
   company: ""
   title: ""
   bio: ""
-  thumbnailUrl: JanWillemvanAalst.jpg
+#   thumbnailUrl: JanWillemvanAalst.jpg
   rockstar: true
 - 
   id: 9
@@ -68,7 +68,7 @@
   company: ""
   title: ""
   bio: ""
-  thumbnailUrl: MoniqueBennen.jpg
+#   thumbnailUrl: MoniqueBennen.jpg
   rockstar: true
 - 
   id: 10
@@ -77,7 +77,7 @@
   company: ""
   title: ""
   bio: ""
-  thumbnailUrl: BartBaas.jpg
+#   thumbnailUrl: BartBaas.jpg
   rockstar: true
 - 
   id: 11
@@ -86,7 +86,7 @@
   company: ""
   title: ""
   bio: ""  
-  thumbnailUrl: PeterPaulKoonings.jpg
+#   thumbnailUrl: PeterPaulKoonings.jpg
   rockstar: true
 - 
   id: 12
@@ -95,7 +95,7 @@
   company: "Webmapper"
   title: ""
   bio: ""
-  thumbnailUrl: EdwardMacGillavry.jpg
+#   thumbnailUrl: EdwardMacGillavry.jpg
   rockstar: true
 - 
   id: 13
@@ -104,7 +104,7 @@
   company: ""
   title: ""
   bio: ""
-  thumbnailUrl: PeterHeerink.jpg
+#   thumbnailUrl: PeterHeerink.jpg
   rockstar: true
 - 
   id: 14
@@ -113,7 +113,7 @@
   company: ""
   title: ""
   bio: ""
-  thumbnailUrl: JanHartmann.jpg
+#   thumbnailUrl: JanHartmann.jpg
   rockstar: true
 - 
   id: 15
@@ -122,7 +122,7 @@
   company: ""
   title: ""
   bio: ""
-  thumbnailUrl: ArjenVrielink.jpg
+#   thumbnailUrl: ArjenVrielink.jpg
   rockstar: true
 - 
   id: 16
@@ -131,7 +131,7 @@
   company: ""
   title: ""
   bio: ""
-  thumbnailUrl: PatrickSmit.jpg
+#   thumbnailUrl: PatrickSmit.jpg
   rockstar: true
 - 
   id: 17
@@ -140,7 +140,7 @@
   company: ""
   title: ""
   bio: ""
-  thumbnailUrl: RonaldMulder.jpg
+#   thumbnailUrl: RonaldMulder.jpg
   rockstar: true
 - 
   id: 200
