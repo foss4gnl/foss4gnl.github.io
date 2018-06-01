@@ -44,7 +44,7 @@ navigationLinks:
  - {permalink: "/blog/", text: "Nieuws"}
  - {permalink: "/conference/", text: "Programma"}
  - {permalink: "/schedule/", text: "Workshops"}
-# - {permalink: "/speakers/", text: "Workshops"}
+ - {permalink: "/speakers/", text: "Sprekers"}
 # - {permalink: "/team/", text: "Team"}
 # - {permalink: "/praktisch/", text: "Praktisch"}
 # - {permalink: "/hackathon/", text: "Hackathon"}
