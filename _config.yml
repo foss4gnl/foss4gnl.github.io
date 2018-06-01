@@ -64,8 +64,8 @@ heroButtons:
 # About Block
 aboutTitle: "Over FOSS4GNL 2018"
 aboutBlock:
- - {title: "Workshops", image: "workshop.jpg", text: "10 juli" }
- - {title: "Conferentie", image: "conference.jpg", text: "11 juli" }
+ - {title: "Workshops", image: "workshop.jpg", link: "https://osgeo.nl/", text: "10 juli" }
+ - {title: "Conferentie", image: "conference.jpg", link: "https://osgeo.nl/", text: "11 juli" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
