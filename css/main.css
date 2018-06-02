@@ -1985,8 +1985,7 @@ time{
 
 .loader-gplus::before,.loader-gplus::after{
     content:' ';
-/*     display:block; */
-    display:none;
+    display:block;
     width:50%;
     height:100%;
     overflow:hidden;
@@ -2000,7 +1999,6 @@ time{
     transform-origin:0 50%
 }
 .loader-gplus::before{
-    display:none;
     z-index:2;
     -webkit-transform-style:preserve-3d;
     transform-style:preserve-3d;
@@ -2008,7 +2006,6 @@ time{
     animation:flip 3s linear 0s infinite
 }
 .loader-gplus::after{
-    display:none;
     -webkit-animation:reveal 3s steps(1) 0s infinite;
     animation:reveal 3s steps(1) 0s infinite
 }
