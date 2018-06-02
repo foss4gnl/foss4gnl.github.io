@@ -2209,7 +2209,7 @@ time{
 .content-wrapper{
     position:relative;
     z-index:1;
-    height:auto;
+    height:100%;
 }
 .bordered{
     display:inline-block;
