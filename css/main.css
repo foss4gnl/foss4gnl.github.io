@@ -1959,8 +1959,7 @@ time{
     background-color:#fff
 }
 .loader-gplus{
-/*     display:inline-block; */
-    display:none;
+    display:inline-block;
     position:absolute;
     top:calc(50% - 20px);
     left:calc(50% - 20px);
