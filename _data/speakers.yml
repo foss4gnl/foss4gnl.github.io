@@ -56,11 +56,14 @@
   id: 8
   name: "Jan-Willem"
   surname: "van Aalst"
-  company: ""
-  title: ""
-  bio: ""
-#   thumbnailUrl: JanWillemvanAalst.jpg
+  company: "Imergis"
+  title: "Oprichter, directeur"
+  bio: "Jan-Willem van Aalst (1970) werkt als zelfstandig geodata scientist en cartografisch vormgever. Hij richt zich met name op het afstemmen van het snel groeiende geodata-aanbod op de behoeften van overheden voor het ruimtelijk georiënteerd werken in brede zin. Jan-Willem is oprichter en beheerder van www.opentopo.nl en www.gemeentenatlas.nl, waarin basisregistraties van de overheid worden gecombineerd. Hij geeft met regelmaat workshops over het praktisch toepassen van nieuwe mogelijkheden op het gebied van geodata."
+  thumbnailUrl: JanWillemvanAalst.jpg
   rockstar: true
+  social: 
+    - {name: "twitter", link: "https://twitter.com/janwillemvaalst"}
+    - {name: "linkedin", link: "www.linkedin.com/in/janwillemvanaalst/"}
 - 
   id: 9
   name: "Monique"
