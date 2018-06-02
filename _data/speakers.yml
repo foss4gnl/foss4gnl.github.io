@@ -19,7 +19,7 @@
   company: ""
   title: ""
   bio: ""
-  thumbnailUrl: placeholder.jpg
+  thumbnailUrl: placeholder.png
 #   thumbnailUrl: PeterVos.jpg
   rockstar: true
 - 
@@ -38,7 +38,7 @@
   company: "Just Objects"
   title: "Open Source Geospatial Professional"
   bio: ""
-  thumbnailUrl: placeholder.jpg
+  thumbnailUrl: placeholder.png
 #   thumbnailUrl: JustvandenBroecke.jpg
   rockstar: true
 - 
@@ -48,7 +48,7 @@
   company: ""
   title: ""
   bio: ""
-  thumbnailUrl: placeholder.jpg
+  thumbnailUrl: placeholder.png
 #   thumbnailUrl: PaulMeems.jpg
   rockstar: true
 - 
@@ -58,7 +58,7 @@
   company: ""
   title: ""
   bio: ""
-  thumbnailUrl: placeholder.jpg
+  thumbnailUrl: placeholder.png
 #   thumbnailUrl: SiebeBosch.jpg
   rockstar: true
 - 
@@ -80,7 +80,7 @@
   company: ""
   title: ""
   bio: ""
-  thumbnailUrl: placeholder.jpg
+  thumbnailUrl: placeholder.png
 #   thumbnailUrl: MoniqueBennen.jpg
   rockstar: true
 - 
@@ -90,7 +90,7 @@
   company: ""
   title: ""
   bio: ""
-  thumbnailUrl: placeholder.jpg
+  thumbnailUrl: placeholder.png
 #   thumbnailUrl: BartBaas.jpg
   rockstar: true
 - 
@@ -100,7 +100,7 @@
   company: ""
   title: ""
   bio: ""  
-  thumbnailUrl: placeholder.jpg
+  thumbnailUrl: placeholder.png
 #   thumbnailUrl: PeterPaulKoonings.jpg
   rockstar: true
 - 
@@ -119,7 +119,7 @@
   company: ""
   title: ""
   bio: ""
-  thumbnailUrl: placeholder.jpg
+  thumbnailUrl: placeholder.png
 #   thumbnailUrl: PeterHeerink.jpg
   rockstar: true
 - 
@@ -129,7 +129,7 @@
   company: ""
   title: ""
   bio: ""
-  thumbnailUrl: placeholder.jpg
+  thumbnailUrl: placeholder.png
 #   thumbnailUrl: JanHartmann.jpg
   rockstar: true
 - 
@@ -139,7 +139,7 @@
   company: ""
   title: ""
   bio: ""
-  thumbnailUrl: placeholder.jpg
+  thumbnailUrl: placeholder.png
 #   thumbnailUrl: ArjenVrielink.jpg
   rockstar: true
 - 
@@ -149,7 +149,7 @@
   company: ""
   title: ""
   bio: ""
-  thumbnailUrl: placeholder.jpg
+  thumbnailUrl: placeholder.png
 #   thumbnailUrl: PatrickSmit.jpg
   rockstar: true
 - 
@@ -159,7 +159,7 @@
   company: ""
   title: ""
   bio: ""
-  thumbnailUrl: placeholder.jpg
+  thumbnailUrl: placeholder.png
 #   thumbnailUrl: RonaldMulder.jpg
   rockstar: true
 - 
@@ -169,7 +169,7 @@
   company: "Satelligence"
   title: ""
   bio: ""
-  thumbnailUrl: placeholder.jpg
+  thumbnailUrl: placeholder.png
   rockstar: true
 - 
   id: 201
@@ -178,7 +178,7 @@
   company: "Satelligence"
   title: ""
   bio: ""
-  thumbnailUrl: placeholder.jpg
+  thumbnailUrl: placeholder.png
   rockstar: true
 - 
   id: 202
@@ -196,7 +196,7 @@
   company: "Nieuwland"
   title: ""
   bio: ""
-  thumbnailUrl: placeholder.jpg
+  thumbnailUrl: placeholder.png
   rockstar: true
 - 
   id: 204
@@ -205,7 +205,7 @@
   company: "Geo Academie"
   title: ""
   bio: ""
-  thumbnailUrl: placeholder.jpg 
+  thumbnailUrl: placeholder.png 
   rockstar: true
 - 
   id: 205
@@ -214,7 +214,7 @@
   company: "OpenGeoGroep"
   title: ""
   bio: ""
-  thumbnailUrl: placeholder.jpg
+  thumbnailUrl: placeholder.png
   rockstar: true
 - 
   id: 206
@@ -223,7 +223,7 @@
   company: "OpenGeoGroep"
   title: ""
   bio: ""
-  thumbnailUrl: placeholder.jpg
+  thumbnailUrl: placeholder.png
   rockstar: true
 - 
   id: 207
@@ -232,7 +232,7 @@
   company: "Geon"
   title: ""
   bio: ""
-  thumbnailUrl: placeholder.jpg
+  thumbnailUrl: placeholder.png
   rockstar: true
 - 
   id: 208
@@ -241,7 +241,7 @@
   company: "Geon"
   title: ""
   bio: ""
-  thumbnailUrl: placeholder.jpg
+  thumbnailUrl: placeholder.png
   rockstar: true
 - 
   id: 209
@@ -250,7 +250,7 @@
   company: "Geo Academie"
   title: ""
   bio: ""
-  thumbnailUrl: placeholder.jpg
+  thumbnailUrl: placeholder.png
   rockstar: true
 - 
   id: 210
@@ -259,7 +259,7 @@
   company: "GeoCat"
   title: ""
   bio: ""
-  thumbnailUrl: placeholder.jpg
+  thumbnailUrl: placeholder.png
   rockstar: true
 - 
   id: 211
@@ -268,5 +268,5 @@
   company: "GeoCat"
   title: ""
   bio: ""
-  thumbnailUrl: placeholder.jpg 
+  thumbnailUrl: placeholder.png 
   rockstar: true
