@@ -1970,6 +1970,18 @@ time{
     -webkit-animation:base 3s steps(1) 0s infinite;
     animation:base 3s steps(1) 0s infinite
 }
+
+.loader-osgeo{
+    display:inline-block;
+    position:absolute;
+    top:calc(50% - 20px);
+    left:calc(50% - 20px);
+    width:40px;
+    height:40px;
+    overflow:hidden;
+    border-radius:20px;
+}
+
 .loader-gplus::before,.loader-gplus::after{
     content:' ';
     display:block;
