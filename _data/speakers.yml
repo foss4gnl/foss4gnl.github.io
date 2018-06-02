@@ -10,7 +10,7 @@
     - {name: "twitter", link: "https://twitter.com/ton_zylstra"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/tonzijlstra"}
     - {name: "site", link: "https://thegreenland.eu"}
-    - {name: "blog", link: "https://zylstra.org/blog"}
+    - {name: "site", link: "https://zylstra.org/blog"}
   rockstar: true
 - 
   id: 3
