@@ -1959,7 +1959,8 @@ time{
     background-color:#fff
 }
 .loader-gplus{
-    display:inline-block;
+/*     display:inline-block; */
+    display:none;
     position:absolute;
     top:calc(50% - 20px);
     left:calc(50% - 20px);
@@ -1984,7 +1985,8 @@ time{
 
 .loader-gplus::before,.loader-gplus::after{
     content:' ';
-    display:block;
+/*     display:block; */
+    display:none;
     width:50%;
     height:100%;
     overflow:hidden;
@@ -1998,6 +2000,7 @@ time{
     transform-origin:0 50%
 }
 .loader-gplus::before{
+    display:none;
     z-index:2;
     -webkit-transform-style:preserve-3d;
     transform-style:preserve-3d;
@@ -2005,6 +2008,7 @@ time{
     animation:flip 3s linear 0s infinite
 }
 .loader-gplus::after{
+    display:none;
     -webkit-animation:reveal 3s steps(1) 0s infinite;
     animation:reveal 3s steps(1) 0s infinite
 }
