@@ -43,7 +43,7 @@ navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/blog/", text: "Nieuws"}
  - {permalink: "/conference/", text: "Programma"}
- - {permalink: "/schedule/", text: "Workshops"}
+ - {permalink: "/workshops/", text: "Workshops"}
  - {permalink: "/speakers/", text: "Sprekers"}
 # - {permalink: "/team/", text: "Team"}
 # - {permalink: "/praktisch/", text: "Praktisch"}
