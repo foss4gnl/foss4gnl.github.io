@@ -176,6 +176,7 @@ footerBlocks:
   links:
    - {link: "https://osgeo.nl/", text: "OSGeo.nl"}
    - {link: "https://wiki.osgeo.org/wiki/Nederlands/", text: "Wiki"}
+   - {link: "http://foss4g.nl/history/2017/", text: "FOSS4GNL 2017"}
  -
   title: "Contact"
   links:
