@@ -248,9 +248,13 @@
   name: "Willem"
   surname: "Hoffmans"
   company: "Geo Academie"
-  title: ""
-  bio: ""
-  thumbnailUrl: placeholder.png
+  title: "GIS Expert met inhoud"
+  bio: "Willem is intussen ruim 20 jaar actief in de wereld van geografische data, cartografie, GIS analyses en modellen. Na diverse functies bij verschillende organisaties heeft hij in 2012 éénmansbedrijf Ruimtemaatwerk opgericht. 
+Hierna heeft hij zich steeds verder ontwikkeld in met name Open Source GIS en databases (QGIS, PostGIS). Aan de ene kant zelf productief in het werkveld (o.a. Jantje Beton, gemeente Den Haag, Omgevingsdienst Rivierenland, aan de andere 
+kant profileert hij zich als docent: bij de Geo-Academie en diverse hogsecholen. Hij is erg enthousiast voor nieuwe ideeën en technieken die het werk efficiënter en leuker maken, en draagt dit enthousiasme graag over aan anderen."
+  thumbnailUrl: WillemHoffmans.jpg
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/willemhoffmans/"}
   rockstar: true
 - 
   id: 210
