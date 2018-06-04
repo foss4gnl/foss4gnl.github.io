@@ -156,11 +156,17 @@
   id: 17
   name: "Ronald"
   surname: "Mulder"
-  company: ""
-  title: ""
-  bio: ""
-  thumbnailUrl: placeholder.png
-#   thumbnailUrl: RonaldMulder.jpg
+  company: "Geon"
+  title: "Adviseur"
+  bio: "Sinds iets meer dan 20 jaar ben ik werkzaam in de Geo-ICT. Bij mijn huidige werkgever, 
+  Geon, werk ik sinds 2006 als organisatieadviseur met daarbij een passie voor techniek. Projecten 
+  met zowel technische als organisatorische insteek vind ik daarom erg boeiend. Vooral in combinatie 
+  met slimme tools. De tools ontwikkel ik vaak zelf. En anders weet ik precies waar ik ze kan vinden. 
+  Inmiddels heb ik een ruime ervaring met onder meer PostGIS, QGIS en diverse andere (GIS) pakketten 
+  en (programmeer)omgevingen.
+  Het overdagen van kennis, ontsluiten en verbinden van (geo)datasets, het maken van (complexe)analyses 
+  en visualisaties zijn allemaal zaken die mijn werkdag tot een feestje maken!"
+  thumbnailUrl: RonaldMulder.png
   rockstar: true
 - 
   id: 200
