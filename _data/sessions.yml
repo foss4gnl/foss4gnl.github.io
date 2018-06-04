@@ -296,11 +296,17 @@ het verwachtte resultaat had? Vaak heb je een idee, je test het uit, bekijkt het
 proces.<br><br>
 Om deze manier van modelleren en proberen te ondersteunen heeft Geon bv de Open Source
 PostGIS3DExplorer (https://github.com/geondev/PostGIS3DExplorer) gebouwd. In onze workshop kun je
-ervaren hoe dit werkt aan de hand van praktische voorbeelden.<br>
+ervaren hoe dit werkt aan de hand van praktische voorbeelden.<br><br>
+Na afloop kun je:<br>
+• Queries maken met PostGIS 3D functies<br>
+• 3D Visualisaties maken met PostGIS3DExplorer<br>
+• Zelfbedachte modellen in praktijk ontwerpen, visualiseren en verder verfijnen<br>
+• AHN gegevens visualiseren<br>
+• 2D geometrie in 3D geometrie veranderen, bijvoorbeeld een Z component aan BAG geometrie toevoegen<br><br>
 Randvoorwaarden voor deelname:<br>
-Basiskennis van SQL en PostgreSQL / PostGIS<br>
-Eigen laptop met Windows 7 of hoger<br>
-Bestaande installatie van PostgreSQL 9.x en PostGIS 2.2 of hoger"
+• Basiskennis van SQL en PostgreSQL / PostGIS<br>
+• Eigen laptop met Windows 7 of hoger<br>
+• Bestaande installatie van PostgreSQL 9.x en PostGIS 2.2 of hoger"
   speakers: [207, 208]
 -
   id: 206
