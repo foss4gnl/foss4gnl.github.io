@@ -30,6 +30,9 @@
   title: "Software Engineer"
   bio: ""
   thumbnailUrl: FrankSteggink.jpg
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/fsteggink/"}
+    - {name: "site", link: "https://www.steggink.it/"}
   rockstar: true
 - 
   id: 5
