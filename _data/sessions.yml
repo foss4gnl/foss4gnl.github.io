@@ -2,7 +2,15 @@
   id: 800
   title: "Keynote"
   subtype: presentation
-  description: "Het bestuur van OSGeoNL en de organisatie van de FOSS4GNL heten u welkom! Speciale aandacht deze ochtend is er voor open data, en de impact die ze heeft op de samenleving. Ton Zijlstra (TheGreenLand) is uw gids voor dit onderwerp."
+  description: "De open data-explosie heeft een enorme impact op ons allemaal: de samenleving als geheel verandert
+
+erdoor, in ons vakgebied maken we dankbaar gebruik van de nieuwe mogelijkheden. In tijden van AVG-
+awareness en Facebook schandalen kijken ook de geo-informatieprofessionals graag naar de
+
+randvoorwaarden: geeft de open data-explosie ook een privacy-explosie? Willen we als Nederland wel
+echt open gaan, en zo ja, hoe dan? Kunnen we leren van hoe andere landen dat doen? Ton Zijlstra geeft
+als geen ander de antwoorden op deze vraagstukken. Zijn kennis en ervaring deelt hij met onder andere de
+Verenigde Naties, de WereldBank, en... nu ook met ons op de FOSS4GNL."
   speakers: [2]
 -
   id: 801
