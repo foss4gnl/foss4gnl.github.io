@@ -28,7 +28,8 @@
   surname: "Steggink"
   company: "Steggink Geo-ICT"
   title: "Software Engineer"
-  bio: ""
+  bio: "
+Frank is al bijna twintig jaar werkzaam in de geowereld als software-ontwikkelaar. Zijn expertise is kennis en gebruik van open data (basisregistraties, PDOK datasets, OpenStreetMap), open source (PostGIS, QGIS) en open standaarden.  Sinds 2012 draagt hij actief bij aan de open source community d.m.v. het project NLExtract <http://www.nlextract.nl/>. Na bij enkele bedrijven in de geosector werkzaam te zijn geweest, is Frank in 2015 voor zichzelf begonnen met Steggink Geo-ICT. Hier is hij o.a. ingehuurd door Sweco, Nieuwland, Instituut Fysieke Veiligheid en Kadaster. Bij de laatste organisatie heeft hij Locatieserver in productie genomen. Reeds toen Locatieserver nog in ontwikkeling was bij de Politie (2014/2015) heeft Frank hieraan bijgedragen."
   thumbnailUrl: FrankSteggink.jpg
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/fsteggink/"}
