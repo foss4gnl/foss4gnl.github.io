@@ -161,19 +161,27 @@ Frank is al bijna twintig jaar werkzaam in de geowereld als software-ontwikkelaa
   name: "Arjen"
   surname: "Vrielink"
   company: "Satelligence"
-  title: ""
-  bio: ""
-  thumbnailUrl: placeholder.png
+  title: "Directeur bij Satelligence"
+  bio: "Arjen is directeur bij Satelligence, een scale up van ~14 personen, waar hij operations en development aanstuurt. Arjen heeft ruim 15 jaar ervaring in verschillende rollen in de aardobservatie- en IT-sector en een brede ervaring op het gebied van Remote Sensing, software engineering, system design en productontwikkeling. Vanaf het jaar 2001 gebruikt hij uitsluitend Linux en FOSS in zijn dagelijkse werkzaamheden. Het is dan ook geen verassing dat Satelligence vertrouwd op een volledige FOSS stack en dat een deel van de software die Satelligence ontwikkelt open source is."
+  thumbnailUrl: ArjenVrielink.jpg
   rockstar: true
+  social: 
+    - {name: "site", link: "http://www.satelligence.com/"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/arjenvrielink"}
 - 
   id: 201
   name: "Rens"
   surname: "Masselink"
   company: "Satelligence"
-  title: ""
-  bio: ""
-  thumbnailUrl: placeholder.png
+  title: "Operations bij Satelligence"
+  bio: "Na het behalen van zijn MSc en PhD waarbij hij met aardobservatie naar water en de bodem heeft gekeken, is Rens gaan werken bij Satelligence. Hij is daar nu werkzaam 
+als coordinator van operations en helpt daarnaast het software development team met het ontwikkelen van een framework om satellietbeelden te verwerken. Hij is 
+geinteresseerd in machine learning en heeft het grootste deel van de open-source tool 'classifier' gebouwd, welke ook gebruikt zal gaan worden in de workshop op 10 juli."
+  thumbnailUrl: RensMasselink.png
   rockstar: true
+  social: 
+    - {name: "site", link: "http://www.satelligence.com/"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/rensmasselink"}
 - 
   id: 202
   name: "Niene"
