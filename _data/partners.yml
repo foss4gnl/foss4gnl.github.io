@@ -1,7 +1,7 @@
 - 
   group: "Goud"
   elements: 
-    - {name: "Satelligence", description: "Satelligence", link: "https://www.ordina.com/", imageUrl: "logo-satelligence.png"}
+    - {name: "Satelligence", description: "Satelligence", link: "http://www.satelligence.com/", imageUrl: "logo-satelligence.png"}
     - {name: "Ordina", description: "Ordina", link: "https://www.ordina.com/", imageUrl: "logo-ordina.png"}
     - {name: "Webmapper", description: "Webmapper", link: "https://www.webmapper.net", imageUrl: "logo-webmapper.svg"}
     - {name: "Merkator", description: "Merkator", link: "https://www.merkator.com", imageUrl: "logo-merkator.png"}
