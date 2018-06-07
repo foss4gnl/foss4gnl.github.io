@@ -108,12 +108,6 @@ venueSmallImage3: "venue_3.jpg"
 venueTitle: "Kinopalace Cinema"
 venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
 
-# Tweets Feed Block
-tweetsFeedImage: "twitter-feed.jpg"
-tweetsFeedTitle: "What's Up?"
-twitterHashTag: "devfest"
-twitterFeed: ""
-
 # Partners Block
 organizersTitle: ""
 partnersTitle: "Sponsors"
