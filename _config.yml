@@ -26,7 +26,7 @@ organizerAlternateName: "Open Source Geo Nederland"
 organizerDescription: "..."
 organizerEmail: "foss4g@osgeo.nl"
 organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "http://lviv.gdg.org.ua/"
+organizerLink: "http://www.osgeo.nl/"
 
 # Head
 metaKeywords: "event, osgeo, conferentie, open source, geo, gis, almere, geographic, nederland"
@@ -86,7 +86,7 @@ rockstarSpeakersButtonText: "Zie alle sprekers"
 # Location Block
 locationBlockTitle: "Locatie"
 eventLocationName: "Aeres Hogeschool"
-eventLocationLink: "http://cabinet.kinopalace.lviv.ua/showtimes/"
+eventLocationLink: ""
 eventStreetAddress: "Stadhuisstraat 18"
 eventAddressLocality: "Almere"
 eventAddressLocalityRegion: "Flevoland"
