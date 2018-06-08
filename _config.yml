@@ -53,7 +53,7 @@ rightNavigationButtons:
  - {link: "https://www.eventbrite.nl/e/tickets-foss4gnl-2018-46048701907", text: "Aanmelden"}
 
 # Hero Block
-heroImage: "hero.jpg"
+heroImage: "hero.png"
 heroTitle: "FOSS4GNL 2018"
 eventDate: "10-11 juli 2018 - Aeres Hogeschool, Almere"
 heroButtons:
