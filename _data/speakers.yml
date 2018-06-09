@@ -364,17 +364,6 @@ kant profileert hij zich als docent: bij de Geo-Academie en diverse hogsecholen.
 #   social:
 #     - {name: "linkedin", link: "https://www.linkedin.com/"}
 -
-  id: 307
-  name: "Peter"
-  surname: "Heerink"
-  company: ""
-  title: ""
-  bio: ""
-  thumbnailUrl: placeholder.png 
-  rockstar: true
-#   social:
-#     - {name: "linkedin", link: "https://www.linkedin.com/"}
--
   id: 308
   name: "Jan-Willem"
   surname: "van Aalst"
