@@ -213,7 +213,7 @@ geinteresseerd in machine learning en heeft het grootste deel van de open-source
   id: 205
   name: "Marco"
   surname: "Duiker"
-  company: "Geo Academie, Open Geo Groep"
+  company: "Geo Academie, Open Geo Groep, FRESHEM"
   title: "Docent, Project Manager"
   bio: ""
   thumbnailUrl: placeholder.jpg
@@ -280,7 +280,7 @@ kant profileert hij zich als docent: bij de Geo-Academie en diverse hogsecholen.
   rockstar: true
 - 
   id: 211
-  name: "Jorge"
+  name: "Jorge Samuel Mende"
   surname: "de Jesus"
   company: "GeoCat"
   title: ""
@@ -311,9 +311,9 @@ kant profileert hij zich als docent: bij de Geo-Academie en diverse hogsecholen.
 #     - {name: "linkedin", link: "https://www.linkedin.com/"}
 -
   id: 302
-  name: ""
-  surname: ""
-  company: ""
+  name: "Peter"
+  surname: "Vos"
+  company: "VU"
   title: ""
   bio: ""
   thumbnailUrl: placeholder.png 
@@ -322,8 +322,8 @@ kant profileert hij zich als docent: bij de Geo-Academie en diverse hogsecholen.
 #     - {name: "linkedin", link: "https://www.linkedin.com/"}
 -
   id: 303
-  name: ""
-  surname: ""
+  name: "Richard"
+  surname: "Hendriks"
   company: ""
   title: ""
   bio: ""
@@ -333,8 +333,8 @@ kant profileert hij zich als docent: bij de Geo-Academie en diverse hogsecholen.
 #     - {name: "linkedin", link: "https://www.linkedin.com/"}
 -
   id: 304
-  name: ""
-  surname: ""
+  name: "Itay"
+  surname: "Bar-on"
   company: ""
   title: ""
   bio: ""
@@ -344,9 +344,9 @@ kant profileert hij zich als docent: bij de Geo-Academie en diverse hogsecholen.
 #     - {name: "linkedin", link: "https://www.linkedin.com/"}
 -
   id: 305
-  name: ""
-  surname: ""
-  company: ""
+  name: "Arendjan"
+  surname: "van der Neut "
+  company: "Geodan"
   title: ""
   bio: ""
   thumbnailUrl: placeholder.png 
@@ -366,8 +366,8 @@ kant profileert hij zich als docent: bij de Geo-Academie en diverse hogsecholen.
 #     - {name: "linkedin", link: "https://www.linkedin.com/"}
 -
   id: 307
-  name: ""
-  surname: ""
+  name: "Peter"
+  surname: "Heerink"
   company: ""
   title: ""
   bio: ""
@@ -377,9 +377,9 @@ kant profileert hij zich als docent: bij de Geo-Academie en diverse hogsecholen.
 #     - {name: "linkedin", link: "https://www.linkedin.com/"}
 -
   id: 308
-  name: ""
-  surname: ""
-  company: ""
+  name: "Jan-Willem"
+  surname: "van Aalst"
+  company: "Imergis"
   title: ""
   bio: ""
   thumbnailUrl: placeholder.png 
@@ -388,9 +388,9 @@ kant profileert hij zich als docent: bij de Geo-Academie en diverse hogsecholen.
 #     - {name: "linkedin", link: "https://www.linkedin.com/"}
 -
   id: 309
-  name: ""
-  surname: ""
-  company: ""
+  name: "Thomas"
+  surname: "Vermaut"
+  company: "HISGis"
   title: ""
   bio: ""
   thumbnailUrl: placeholder.png 
@@ -399,9 +399,9 @@ kant profileert hij zich als docent: bij de Geo-Academie en diverse hogsecholen.
 #     - {name: "linkedin", link: "https://www.linkedin.com/"}
 -
   id: 310
-  name: ""
-  surname: ""
-  company: ""
+  name: "Bart"
+  surname: "Baas"
+  company: "BaasGeo"
   title: ""
   bio: ""
   thumbnailUrl: placeholder.png 
@@ -410,9 +410,9 @@ kant profileert hij zich als docent: bij de Geo-Academie en diverse hogsecholen.
 #     - {name: "linkedin", link: "https://www.linkedin.com/"}
 -
   id: 311
-  name: ""
-  surname: ""
-  company: ""
+  name: "Peter-Paul"
+  surname: "Koonings"
+  company: "Geonovation"
   title: ""
   bio: ""
   thumbnailUrl: placeholder.png 
@@ -421,9 +421,9 @@ kant profileert hij zich als docent: bij de Geo-Academie en diverse hogsecholen.
 #     - {name: "linkedin", link: "https://www.linkedin.com/"}
 -
   id: 312
-  name: ""
-  surname: ""
-  company: ""
+  name: "Jan"
+  surname: "Hartmann"
+  company: "UVA"
   title: ""
   bio: ""
   thumbnailUrl: placeholder.png 
@@ -432,9 +432,9 @@ kant profileert hij zich als docent: bij de Geo-Academie en diverse hogsecholen.
 #     - {name: "linkedin", link: "https://www.linkedin.com/"}
 -
   id: 313
-  name: ""
-  surname: ""
-  company: ""
+  name: "Wouter"
+  surname: "Visscher"
+  company: "Kadaster/PDOK"
   title: ""
   bio: ""
   thumbnailUrl: placeholder.png 
@@ -443,9 +443,9 @@ kant profileert hij zich als docent: bij de Geo-Academie en diverse hogsecholen.
 #     - {name: "linkedin", link: "https://www.linkedin.com/"}
 -
   id: 314
-  name: ""
-  surname: ""
-  company: ""
+  name: "Daniella"
+  surname: "Vos"
+  company: "RUG"
   title: ""
   bio: ""
   thumbnailUrl: placeholder.png 
@@ -454,9 +454,9 @@ kant profileert hij zich als docent: bij de Geo-Academie en diverse hogsecholen.
 #     - {name: "linkedin", link: "https://www.linkedin.com/"}
 -
   id: 315
-  name: ""
-  surname: ""
-  company: ""
+  name: "Richard"
+  surname: "Rijnks"
+  company: "RUG"
   title: ""
   bio: ""
   thumbnailUrl: placeholder.png 
@@ -465,20 +465,9 @@ kant profileert hij zich als docent: bij de Geo-Academie en diverse hogsecholen.
 #     - {name: "linkedin", link: "https://www.linkedin.com/"}
 -
   id: 316
-  name: ""
-  surname: ""
-  company: ""
-  title: ""
-  bio: ""
-  thumbnailUrl: placeholder.png 
-  rockstar: true
-#   social:
-#     - {name: "linkedin", link: "https://www.linkedin.com/"}
--
-  id: 317
-  name: ""
-  surname: ""
-  company: ""
+  name: "Tom"
+  surname: "van Tilburg"
+  company: "Geodan"
   title: ""
   bio: ""
   thumbnailUrl: placeholder.png 
@@ -487,9 +476,9 @@ kant profileert hij zich als docent: bij de Geo-Academie en diverse hogsecholen.
 #     - {name: "linkedin", link: "https://www.linkedin.com/"}
 -
   id: 318
-  name: ""
-  surname: ""
-  company: ""
+  name: "Patrick"
+  surname: "Smit"
+  company: "Ordina"
   title: ""
   bio: ""
   thumbnailUrl: placeholder.png 
@@ -498,9 +487,9 @@ kant profileert hij zich als docent: bij de Geo-Academie en diverse hogsecholen.
 #     - {name: "linkedin", link: "https://www.linkedin.com/"}
 -
   id: 319
-  name: ""
-  surname: ""
-  company: ""
+  name: "Britta"
+  surname: "Ricker"
+  company: "ITC"
   title: ""
   bio: ""
   thumbnailUrl: placeholder.png 
@@ -509,9 +498,9 @@ kant profileert hij zich als docent: bij de Geo-Academie en diverse hogsecholen.
 #     - {name: "linkedin", link: "https://www.linkedin.com/"}
 -
   id: 320
-  name: ""
-  surname: ""
-  company: ""
+  name: "Wouter"
+  surname: "Scherphof"
+  company: "Merkator"
   title: ""
   bio: ""
   thumbnailUrl: placeholder.png 
@@ -519,9 +508,9 @@ kant profileert hij zich als docent: bij de Geo-Academie en diverse hogsecholen.
 #   social:
 #     - {name: "linkedin", link: "https://www.linkedin.com/"}
 -  id: 321
-  name: ""
-  surname: ""
-  company: ""
+  name: "Monique"
+  surname: "Bennen"
+  company: "Geofoxx"
   title: ""
   bio: ""
   thumbnailUrl: placeholder.png 
@@ -530,9 +519,9 @@ kant profileert hij zich als docent: bij de Geo-Academie en diverse hogsecholen.
 #     - {name: "linkedin", link: "https://www.linkedin.com/"}
 -
   id: 322
-  name: ""
-  surname: ""
-  company: ""
+  name: "Allard Hans"
+  surname: "Roest"
+  company: "RUG"
   title: ""
   bio: ""
   thumbnailUrl: placeholder.png 
@@ -541,9 +530,9 @@ kant profileert hij zich als docent: bij de Geo-Academie en diverse hogsecholen.
 #     - {name: "linkedin", link: "https://www.linkedin.com/"}
 -
   id: 323
-  name: ""
-  surname: ""
-  company: ""
+  name: "Ronnie"
+  surname: "Lassche"
+  company: "Merkator"
   title: ""
   bio: ""
   thumbnailUrl: placeholder.png 
@@ -552,9 +541,9 @@ kant profileert hij zich als docent: bij de Geo-Academie en diverse hogsecholen.
 #     - {name: "linkedin", link: "https://www.linkedin.com/"}
 -
   id: 324
-  name: ""
-  surname: ""
-  company: ""
+  name: "Leon"
+  surname: "van der Meulen"
+  company: "RUG"
   title: ""
   bio: ""
   thumbnailUrl: placeholder.png 
@@ -563,9 +552,9 @@ kant profileert hij zich als docent: bij de Geo-Academie en diverse hogsecholen.
 #     - {name: "linkedin", link: "https://www.linkedin.com/"}
 -
   id: 325
-  name: ""
-  surname: ""
-  company: ""
+  name: "Casper"
+  surname: "van der Wel"
+  company: "Nelen & Schuurmans"
   title: ""
   bio: ""
   thumbnailUrl: placeholder.png 
@@ -574,9 +563,9 @@ kant profileert hij zich als docent: bij de Geo-Academie en diverse hogsecholen.
 #     - {name: "linkedin", link: "https://www.linkedin.com/"}
 -
   id: 326
-  name: ""
-  surname: ""
-  company: ""
+  name: "Tom"
+  surname: "Commandeur"
+  company: "TU Delft"
   title: ""
   bio: ""
   thumbnailUrl: placeholder.png 
@@ -585,9 +574,9 @@ kant profileert hij zich als docent: bij de Geo-Academie en diverse hogsecholen.
 #     - {name: "linkedin", link: "https://www.linkedin.com/"}
 -
   id: 327
-  name: ""
-  surname: ""
-  company: ""
+  name: "Jaap-Willem"
+  surname: "Sjoukema"
+  company: "Kadaster"
   title: ""
   bio: ""
   thumbnailUrl: placeholder.png 
@@ -596,9 +585,9 @@ kant profileert hij zich als docent: bij de Geo-Academie en diverse hogsecholen.
 #     - {name: "linkedin", link: "https://www.linkedin.com/"}
 -
   id: 328
-  name: ""
-  surname: ""
-  company: ""
+  name: "Jaap"
+  surname: "Schellekens"
+  company: "VanDerSat"
   title: ""
   bio: ""
   thumbnailUrl: placeholder.png 
@@ -606,48 +595,3 @@ kant profileert hij zich als docent: bij de Geo-Academie en diverse hogsecholen.
 #   social:
 #     - {name: "linkedin", link: "https://www.linkedin.com/"}
 -
-  id: 329
-  name: ""
-  surname: ""
-  company: ""
-  title: ""
-  bio: ""
-  thumbnailUrl: placeholder.png 
-  rockstar: true
-#   social:
-#     - {name: "linkedin", link: "https://www.linkedin.com/"}
--
-  id: 330
-  name: ""
-  surname: ""
-  company: ""
-  title: ""
-  bio: ""
-  thumbnailUrl: placeholder.png 
-  rockstar: true
-#   social:
-#     - {name: "linkedin", link: "https://www.linkedin.com/"}
--
-  id: 331
-  name: ""
-  surname: ""
-  company: ""
-  title: ""
-  bio: ""
-  thumbnailUrl: placeholder.png 
-  rockstar: true
-#   social:
-#     - {name: "linkedin", link: "https://www.linkedin.com/"}
--
-  id: 332
-  name: ""
-  surname: ""
-  company: ""
-  title: ""
-  bio: ""
-  thumbnailUrl: placeholder.png 
-  rockstar: true
-#   social:
-#     - {name: "linkedin", link: "https://www.linkedin.com/"}
--
-
