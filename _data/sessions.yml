@@ -359,3 +359,210 @@ Spatial Data Infrastructuur.<br>
 behoeve van centrale ontsluiting"
   subtype: workshop
   speakers: [210, 211]
+-
+  id: 300
+  title: "MapWindow GIS/MapWinGIS: Wat is het en wat kun je er mee."
+  description: "Een presentatie voor eindgebruikers. Minimale kennis van GIS is vereist, maar ook interessant voor ervaren GIS-ers.<br>
+Beginnend met een korte samenvatting van de geschiedenis van het MapWindow project, zal ik uitleggen wat MapWindow GIS en MapWinGIS zijn, waar het voor wordt gebruikt en wat het allemaal kan."
+  subtype: presentation
+  speakers: []
+-
+  id: 301
+  title: "Channel Builder en Catchment Builder obv MapWindow"
+  description: "De Nederlandse watersector maakt veel gebruik van simulatiemodellen. Hiermee is het onder andere mogelijk om overstromingen en droogte te voorspellen, infrastructuur te dimensioneren en het effect van klimaatverandering en bodemdaling in beeld te brengen. Om zo'n simulatiemodel te bouwen is erg veel omgevingsdata nodig. Dit varieert van dwarsprofielen van watergangen tot bodemsoort, landgebruik en neerslag. Er zijn dus talloze GIS-bewerkingen mee gemoeid. Hydroconsult gebruikt de Open Source-bibliotheek van MapWindow om geheel automatisch én reproduceerbaar modellen te bouwen op basis van brongegevens in GIS."
+  subtype: presentation
+  speakers: []
+-
+  id: 302
+  title: "GeoBlacklight als zoekplatform voor universitaire data collecties"
+  description: "Blacklight is een open source initiatief van universiteitsbibliotheken voor het bouwen van een beter Discovery platform. GeoBlacklight is de ruimtelijke variant gemaakt om het delen en vinden van geo(meta)data te verbeteren. Naast VU Geoplaza, een met open source gebouwd portaal met geodata van en voor onderzoek en onderwijs, heeft de Vrije Universiteit nu een proof-of-concept gebouwd voor een laagdrempelig zoekplatform gevuld met metadata van universitaire kaartcollecties en geodata. Met dit platform willen we de rijke collecties van universiteiten beter vindbaar maken, allereerst voor onderzoekers, maar ook voor het brede publiek."
+  subtype: presentation
+  speakers: []
+-
+  id: 303
+  title: "NLMaps: samenwerken in kaart viewers"
+  description: "Met de BRT-Achtergrondkaart en luchtfoto's in Leaflet of OpenLayers biedt NL Maps aan ontwikkelaars de meest actuele, gedetailleerde kaart van Nederland voor het Web. Een jaar geleden onder een open licentie ontwikkeld door het Kadaster haakte onlangs de gemeente Amsterdam aan voor doorontwikkeling. Hoe kan je NL Maps gebruiken en aanpassen? Wie bouwt er ook mee? Aan welke functionaliteit is behoefte? Wat kunnen we leren van andere open-source geo-viewers die de overheid in de loop der jaren heeft gemaakt?"
+  subtype: presentation
+  speakers: []
+-
+  id: 304
+  title: "Met PICO Nederland duurzaam maken"
+  description: "PICO onsluit zeer veel energietransitie gerelateerde opendata als vrij beschikbare kaartlagen met QGis server. Een voorbeeldcase waarbij met open data en opensource software de BV Nederland duurzaam gemaakt wordt"
+  subtype: presentation
+  speakers: []
+-
+  id: 305
+  title: "Stetl: geo-conversie-motor in NLExtract en Smart Emission"
+  description: "Stetl (Streaming ETL) is een Python framework om conversie/transformatie op geo-data te doen. In Stetl definieer je in een config bestand proces-ketens (Chains) van Inputs, Filters en Outputs die in stappen een conversie-proces beschrijven en gekoppeld zijn aan Python classes. Stetl is zeg maar een Open Source FME, alleen zonder GUI. In deze presentatie een korte inleiding in de basis principes van Stetl, en dan vooral praktijkvoorbeelden uit NLExtract en Smart Emission."
+  subtype: presentation
+  speakers: []
+-
+  id: 306
+  title: "Geopapaparazzi, de mobiele GIS app"
+  description: "Een introductie van de Android Geopaparazzi mobiele survey applicatie, die ook de basis is van de nieuwe gvsig mobile app"
+  subtype: presentation
+  speakers: []
+-
+  id: 400
+  title: "QGIS gaat 3-D"
+  description: "Sinds versie 3.0 biedt QGIS een nieuwe "3D Map view". Hiermee kun je driedimensionale kaartbeelden maken, als je er tenminste data met hoogtegegevens hebt. In deze presentatie gaan we stapsgewijs een paar 3D kaarten samenstellen, enerzijds met bestaande terreindata van PDOK, en anderzijds met uit AHN berekende pandhoogte data voor een 3D stadsbeeld. Na de presentatie kun je zelf in QGIS je eerste 3D kaartbeeld maken."
+  subtype: presentation
+  speakers: []
+-
+  id: 401
+  title: "Hisgis & OSM"
+  description: ""
+  subtype: presentation
+  speakers: []
+-
+  id: 402
+  title: "MapGallery"
+  description: "MapGallery is een eenvoudige oplossing voor interactieve kaarten op het web. Deze WebGIS viewer is gebruiksvriendelijk, snel en compatible met elke OGC webservice. Ontworpen met de allernieuwste webtechnologieen, zoals typescript en Angular 5, en al reeds in gebruik bij verschillende overheden, is deze viewer klaar voor de toekomst.<br>
+Demo's: woonzorgwijzer.info"
+  subtype: presentation
+  speakers: []
+-
+  id: 403
+  title: "Wanneer kiezen voor Leaflet of OpenLayers (2,3,4)? Overwegingen vanuit de dagelijkse praktijk."
+  description: "Peter-Paul (GeoNovation B.V.) is in 2006 met de Google Maps API begonnen om webbased viewers te maken. In 2007 overgestapt naar OpenLayers.<br>
+Nu aanbeland in 2018 zal hij toelichten waarom en welke keuzes zijn gemaakt bij het maken van webbased GIS viewers. Zaken zoals WMS en WFS, JSON en GML, tekenmogelijkheden, maar ook bv. het kunnen toepassen van de juiste projecties zullen aan bod komen."
+  subtype: presentation
+  speakers: []
+-
+  id: 404
+  title: "Locatieserver PDOK"
+  description: "In deze presentatie geven Gerwin Hulsteijn en Frank Steggink informatie over de nieuwste versie van Locatieserver, de geocodeerservice van PDOK. Op xx juni is/wordt versie vier in productie genomen. Welke datasets zijn er toegevoegd, waar komt de informatie vandaan en hoe is de informatie gecombineerd met bestaande datasets en diverse tips en tricks. Tevens wordt er aandacht besteed aan de infrastructuur. De oude versie draaide al op Docker. Momenteel zijn we bezig om Locatieserver en andere diensten via Kubernetes in de cloud te brengen. De eerste ervaringen hiermee zullen tijdens deze presentatie worden gedeeld."
+  subtype: presentation
+  speakers: []
+-
+  id: 405
+  title: "Wandelen op oude kaarten"
+  description: "Interactieve georeferentie en rubbersheeting van oude kaarten met maximale precisie en minimale vertekening met behulp van NTV2-technieken. Doel is niet alleen om oude kaarten in real time zo precies mogelijk over moderne kaarten te positioneren, en ze daarmee combineerbaar te maken met beeld- en tekst-materiaal. Het gaat er ook om de omgekeerde weg: het rubbersheeten en projecteren van moderne kaarten over oude kaarten in hun oorspronkelijke ligging, zodat die in al hun schoonheid en expressiviteit kunnen worden weergegeven, ook op handhelds voor wandelingen ter plekke."
+  subtype: presentation
+  speakers: []
+-
+  id: 406
+  title: "PyGeoAPI - Towards a Python Web API for Emerging OGC Standards"
+  description: "WFS3.0 is being being developed using a more agile approach based on REST services and openAPI 3.0 specification. The standards is first structured as API/ REST endpoints using openAPI notifications, later developers can used the openAPI structure to create servers and or clients for WFS3.0. PyGeoAPI is one of the current pre-WFS3.0 implementations, where all the REST is programmed using the Flask web framework and fully integrated swagger/openAPI structure. Its structure allows for deployment of dataset from multiple sources into a WFS3.0. SpatialTemporal Asset Catalog (STAC) is being develop parallel to WFS3.0 it intends standardize the how geospatial assets are exposed online and queried."
+  subtype: presentation
+  speakers: []
+-
+  id: 407
+  title: "PDOK Geopackage & Mapserver"
+  description: "De 'noodzaak' voor een OGC stack op basis van Geopackage en Mapserver tbv onze Cloud migratie."
+  subtype: presentation
+  speakers: []
+-
+  id: 500
+  title: "How to start your own Remote Sensing company."
+  description: "Binnen de FOSS4G wereld is Remote Sensing altijd het onderbelichte kindje geweest. Verreweg de meeste software (als je de github repo's telt) is gericht op of gerelateerd aan GIS. En verreweg de meeste praatjes op conferenties gaan over (software voor) GIS. Ergens is dat vreemd omdat er grote hoeveelheden Remote Sensing data van satellieten gratis beschikbaar is (bv Landsat en MODIS van NASA of ons 'eigen' Sentinel programma van ESA). Software om die data te bewerken (numpy, scipy) kan met enig speurwerk ook eenvoudig gevonden worden en diensten als Sentinelhub, Google Earth Engine en Planet timmeren hard aan de weg om Remote Sensing te populariseren. Toch lijkt Remote Sensing een beetje de hobby te blijven van goedbedoelende wetenschappers en voortkabbelende, niet van de grond komende startups. Waarom is dat zo?<br><br>
+  Deze talk laat zien hoe je met open source data en tools je eigen RS startup kunt beginnen op je zolderkamer, in de garage van je ouders of in de zeecontainer waar je oom vroeger plantjes in kweekte om wat bij te verdienen. Aan bod komen onder meer ESA Sentinel 1 en 2 satellietdata, hoe je die kunt downloaden en hoe je met vrij beschikbare Machine Learning tools (zoals de classifier van Satelligence) of QGIS een kaart kunt maken van bijvoorbeeld oppervlaktewater, mais of bos of wat je maar wilt.
+  <br><br>
+  Iedereen kan na deze talk zijn eigen RS bedrijf beginnen en Satelligence kapot concurreren.
+<br><br>
+In theorie."
+  subtype: presentation
+  speakers: []
+-
+  id: 501
+  title: "Portable Antiquities of the Netherlands"
+  description: ""
+  subtype: presentation
+  speakers: []
+-
+  id: 502
+  title: "Radar en AIS data met R"
+  description: ""
+  subtype: presentation
+  speakers: []
+-
+  id: 503
+  title: "Niene Boeijen	"
+  description: ""
+  subtype: presentation
+  speakers: []
+-
+  id: 504
+  title: "Heel NL in 3D"
+  description: "Uitleg over hoe we met AHN en BGT heel Nederland geschikt hebben gemaakt voor een 3D geluidmodel"
+  subtype: presentation
+  speakers: []
+-
+  id: 505
+  title: "INSPIRE als best practice ipv verplichting"
+  description: "De afgelopen 10 jaar is er veel tijd en moeite geïnvesteerd om aan de verplichtingen van INSPIRE te voldoen. De implementaties die gerealiseerd zijn worden echter in minimale mate gebruikt. Daardoor heeft INSPIRE voor velen een negatieve bijklank gekregen en degenen die niet 'aangemerkt' zijn, hebben zich minimaal verdiept in de materie. Dat is jammer, want INSPIRE heeft wel degelijk diverse krachtige conventies geïntroduceerd, die mits breed uitgerold, de samenwerking rond data sterk verbeteren. In deze presentatie wil ik afrekenen met de gedachte dat INSPIRE slechts meerwaarde heeft voor die enkele aangemerkte data provider en de Europese commissie als afnemer. Maar verhelderen dat de conventies van INSPIRE veel breder toepasbaar zijn en een mooie leidraad vormen voor het inrichten en gebruiken van welke Ruimtelijk Data Infrastructuur dan ook. Dit alles aan de hand van open standaarden en met bewezen open source software componenten, zoals Geoserver, PostGIS, QGIS, OGR, GeoNetwork, ETF, LDproxy, Hale is een effectieve architectuur in te richten, die de conventies van INSPIRE ten volle benut."
+  subtype: presentation
+  speakers: []
+-
+  id: 506
+  title: "Beheren van applicaties ESRI vs OpenSource"
+  description: ""
+  subtype: presentation
+  speakers: []
+-
+  id: 507
+  title: "Open Source Web GIS in International Context"
+  description: "Contemporary Web GIS is used for a wide range of endeavors from volunteered geographic information collection to interacting with governmental open data. Each web GIS project has unique data goals and diverse user needs. These are the factors that should dictate the choice of tools selected to construct a web GIS. Both open source and proprietary tools have their pros and cons which need to be considered before a final decision has been made for tool selection. In this presentation I will briefly describe three different international contexts (United States, South Africa, New Zealand) and projects (two related to disaster preparedness and one related to urban governance) in which these types of decisions have had to be made. I will describe the decision making process related to ease of use for both tool builder and end user ultimate influenced Web GIS design decisions."
+  subtype: presentation
+  speakers: []
+-
+  id: 508
+  title: "Waarom moeilijk doen om het makkelijk te maken? - Docker voor GIS"
+  description: ""
+  subtype: presentation
+  speakers: []
+-
+  id: 600
+  title: "Open source data bij integrale afwegingen in het kader van de omgevingswet"
+  description: "Bij het opstellen van omgevingsvisies en omgevingsplannen is een integrale benadering van de inrichting van onze fysieke leefomgeving van toenemend belang. Dit wordt nog eens versterkt door de toenemende druk op de beschikbare ruimte. Het combineren van meerdere (open source) ruimtelijke datasets vormt een ideale basis voor het beantwoorden van de complexe inrichtingsvraagstukken die hierbij spelen. Gebruiksvriendelijke standaarden en tooling, zodat de verschillende data eenduidig gecombineerd kunnen worden zijn hierbij van cruciaal belang. "
+  subtype: presentation
+  speakers: []
+-
+  id: 601
+  title: ""
+  description: "Zoet-zoutverdeling Zeeuwse ondergrond"
+  subtype: presentation
+  speakers: []
+-
+  id: 602
+  title: "Verstening van tuinen"
+  description: "Verstening van tuinen, met name in stedelijke omgevingen, wordt steeds vaker een aandachtspunt voor klimaatadaptatie. Deze kleine stukjes privé-eigendom vormen samen een belangrijk deel van de stedelijke groen-blauwe infrastructuur mits ze groen zijn. Maar in hoeverre zijn tuinen eigenlijk groen? Dit is één van de belangrijkste vragen die ik in mijn onderzoek naar versteningspatronen heb onderzocht. Voor dit onderzoek heb ik gebruik gemaakt van verschillende open datasets (BGT, Percelen etc.) en plugins in QGIS, (waaronder de classification plugin en spatial statistics plugin) om te onderzoeken welke factoren meespelen in verstening van tuinen, en of er ruimtelijke patronen in deze verstening te vinden zijn. In mijn presentatie neem ik je mee door het hele onderzoeksproces om de mogelijkheden van QGIS in onderzoek te laten zien."
+  subtype: presentation
+  speakers: []
+-
+  id: 603
+  title: "Vastgoedanalyses met de BAG in PostGIS"
+  description: ""
+  subtype: presentation
+  speakers: []
+-
+  id: 604
+  title: "De kracht van PostGIS 3D analyse"
+  description: "PostGIS kent zeer uitgebreide ruimtelijke analyse mogelijkheden, meestal gebruik je deze in 2 dimensies en toon je de resultaten in je favoriete GIS applicatie of geo-viewer. Een buffer of intersectie is immers snel gemaakt in de database met de diverse ST_* functies. Wist je echter dat je ook ruimtelijke analyse in 3 dimensies kunt uitvoeren met PostGIS? Hiervoor gebruik je weliswaar grotendeels dezelfde functie-set maar hoe weet je of een ruimtelijke intersectie ook oplevert wat je voor ogen had? Vaak heb je een idee, je test het uit, bekijkt het. Dit is vaak een iteratief proces waar je steeds wat wilt bijstellen en opnieuw wilt kijken. Om deze manier van modelleren, queries bouwen en visualiseren te ondersteunen hebben we vanuit Geon de OSS PostGIS3DExplorer gebouwd en gepubliceerd. In onze presentatie laten we zien hoe je stapsgewijs een 3D analyse kunt uitvoeren en visualiseren."
+  subtype: presentation
+  speakers: []
+-
+  id: 605
+  title: "Using computational graphs for geographical raster data sets"
+  description: "Fast access to high resolution raster data is a basic requirement for geographical information systems (GIS). Inspired by dask, a Python library for parallelized computing, we here demonstrate the use of computation graphs in for example the on-the-fly computation of heat stress maps."
+  subtype: presentation
+  speakers: []
+-
+  id: 606
+  title: "Automatische 3D reconstructie van steden met 3dfier"
+  description: "De door de TU Delft ontwikkelde open-source software 3dfier maakt gebruik van 2D polygonen en 3D puntenwolken om een waterdicht 3D model te maken van de omgeving. Deze data kan worden gebruikt voor simulaties en visualisatie. 3dfier wordt door Kadaster gebruikt voor het maken van 3D modellen voor heel Nederland (Top10NL3D 2018 en binnenkort ook gebaseerd op BGT). Ook wordt er in overleg met Rijkswaterstaat gekeken naar gebruik voor het maken van gestandaardiseerde geo-data voor geluidsimulaties."
+  subtype: presentation
+  speakers: []
+-
+  id: 607
+  title: "Generieke Geo Componenten: op naar bruikbare geobouwstenen"
+  description: "Binnen het Kadaster draaien er veel verschillende kaartviewers. Hoewel deze viewers vaak dezelfde kaartfunctionaliteit bieden, kan het onderhouden en updaten hiervan lastig zijn, omdat ze verschillende soorten frameworks en (soms verouderde) libraries gebruiken. Ook bij het ontwikkelen van nieuwe viewers wordt telkens het wiel weer uitgevonden. Om dit voor de toekomst te voorkomen, worden er daarom nu 'Generieke Geo Componenten' ontwikkeld. Maar deze problemen spelen niet alleen binnen het Kadaster. Daarom zijn we het zeker niet van plan om dit alleen te doen!"
+  subtype: presentation
+  speakers: []
+-
+  id: 608
+  title: "Jaap Schellekens"
+  description: ""
+  subtype: presentation
+  speakers: []
+-
