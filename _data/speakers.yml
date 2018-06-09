@@ -408,17 +408,6 @@ kant profileert hij zich als docent: bij de Geo-Academie en diverse hogsecholen.
 #   social:
 #     - {name: "linkedin", link: "https://www.linkedin.com/"}
 -
-  id: 312
-  name: "Jan"
-  surname: "Hartmann"
-  company: "UVA"
-  title: ""
-  bio: ""
-  thumbnailUrl: placeholder.png 
-  rockstar: true
-#   social:
-#     - {name: "linkedin", link: "https://www.linkedin.com/"}
--
   id: 313
   name: "Wouter"
   surname: "Visscher"
