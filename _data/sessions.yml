@@ -116,11 +116,6 @@ Verenigde Naties, de WereldBank, en... nu ook met ons op de FOSS4GNL."
   subtype: presentation
   speakers: []
 -
-  id: 015
-  title: "FRESHEM: Zoet-zoutverdeling Zeeuwse ondergrond"
-  subtype: presentation
-  speakers: []
--
   id: 016
   title: "NLMaps: samenwerken in kaart viewers"
   subtype: presentation
@@ -519,8 +514,8 @@ In theorie."
   speakers: []
 -
   id: 601
-  title: ""
-  description: "Zoet-zoutverdeling Zeeuwse ondergrond"
+  title: "Zoet-zoutverdeling Zeeuwse ondergrond"
+  description: ""
   subtype: presentation
   speakers: []
 -
