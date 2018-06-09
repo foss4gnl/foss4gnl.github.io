@@ -1,3 +1,4 @@
+-
   id: 2
   name: "Ton"
   surname: "Zijlstra"
@@ -285,8 +286,6 @@ kant profileert hij zich als docent: bij de Geo-Academie en diverse hogsecholen.
   bio: ""
   thumbnailUrl: placeholder.png 
   rockstar: true
-#   social:
-#     - {name: "linkedin", link: "https://www.linkedin.com/"}
 -
   id: 301
   name: "Siebe"
@@ -296,8 +295,6 @@ kant profileert hij zich als docent: bij de Geo-Academie en diverse hogsecholen.
   bio: ""
   thumbnailUrl: placeholder.png 
   rockstar: true
-#   social:
-#     - {name: "linkedin", link: "https://www.linkedin.com/"}
 -
   id: 302
   name: "Peter"
@@ -307,8 +304,6 @@ kant profileert hij zich als docent: bij de Geo-Academie en diverse hogsecholen.
   bio: ""
   thumbnailUrl: placeholder.png 
   rockstar: true
-#   social:
-#     - {name: "linkedin", link: "https://www.linkedin.com/"}
 -
   id: 303
   name: "Richard"
@@ -318,8 +313,6 @@ kant profileert hij zich als docent: bij de Geo-Academie en diverse hogsecholen.
   bio: ""
   thumbnailUrl: placeholder.png 
   rockstar: true
-#   social:
-#     - {name: "linkedin", link: "https://www.linkedin.com/"}
 -
   id: 304
   name: "Itay"
@@ -329,8 +322,6 @@ kant profileert hij zich als docent: bij de Geo-Academie en diverse hogsecholen.
   bio: ""
   thumbnailUrl: placeholder.png 
   rockstar: true
-#   social:
-#     - {name: "linkedin", link: "https://www.linkedin.com/"}
 -
   id: 305
   name: "Arendjan"
@@ -340,8 +331,6 @@ kant profileert hij zich als docent: bij de Geo-Academie en diverse hogsecholen.
   bio: ""
   thumbnailUrl: placeholder.png 
   rockstar: true
-#   social:
-#     - {name: "linkedin", link: "https://www.linkedin.com/"}
 -
   id: 306
   name: ""
@@ -351,8 +340,6 @@ kant profileert hij zich als docent: bij de Geo-Academie en diverse hogsecholen.
   bio: ""
   thumbnailUrl: placeholder.png 
   rockstar: true
-#   social:
-#     - {name: "linkedin", link: "https://www.linkedin.com/"}
 -
   id: 308
   name: "Jan-Willem"
@@ -362,8 +349,6 @@ kant profileert hij zich als docent: bij de Geo-Academie en diverse hogsecholen.
   bio: ""
   thumbnailUrl: placeholder.png 
   rockstar: true
-#   social:
-#     - {name: "linkedin", link: "https://www.linkedin.com/"}
 -
   id: 309
   name: "Thomas"
@@ -373,8 +358,6 @@ kant profileert hij zich als docent: bij de Geo-Academie en diverse hogsecholen.
   bio: ""
   thumbnailUrl: placeholder.png 
   rockstar: true
-#   social:
-#     - {name: "linkedin", link: "https://www.linkedin.com/"}
 -
   id: 310
   name: "Bart"
@@ -384,8 +367,6 @@ kant profileert hij zich als docent: bij de Geo-Academie en diverse hogsecholen.
   bio: ""
   thumbnailUrl: placeholder.png 
   rockstar: true
-#   social:
-#     - {name: "linkedin", link: "https://www.linkedin.com/"}
 -
   id: 311
   name: "Peter-Paul"
@@ -395,8 +376,6 @@ kant profileert hij zich als docent: bij de Geo-Academie en diverse hogsecholen.
   bio: ""
   thumbnailUrl: placeholder.png 
   rockstar: true
-#   social:
-#     - {name: "linkedin", link: "https://www.linkedin.com/"}
 -
   id: 313
   name: "Wouter"
@@ -406,8 +385,6 @@ kant profileert hij zich als docent: bij de Geo-Academie en diverse hogsecholen.
   bio: ""
   thumbnailUrl: placeholder.png 
   rockstar: true
-#   social:
-#     - {name: "linkedin", link: "https://www.linkedin.com/"}
 -
   id: 314
   name: "Daniella"
@@ -417,8 +394,6 @@ kant profileert hij zich als docent: bij de Geo-Academie en diverse hogsecholen.
   bio: ""
   thumbnailUrl: placeholder.png 
   rockstar: true
-#   social:
-#     - {name: "linkedin", link: "https://www.linkedin.com/"}
 -
   id: 315
   name: "Richard"
@@ -428,8 +403,6 @@ kant profileert hij zich als docent: bij de Geo-Academie en diverse hogsecholen.
   bio: ""
   thumbnailUrl: placeholder.png 
   rockstar: true
-#   social:
-#     - {name: "linkedin", link: "https://www.linkedin.com/"}
 -
   id: 316
   name: "Tom"
@@ -439,8 +412,6 @@ kant profileert hij zich als docent: bij de Geo-Academie en diverse hogsecholen.
   bio: ""
   thumbnailUrl: placeholder.png 
   rockstar: true
-#   social:
-#     - {name: "linkedin", link: "https://www.linkedin.com/"}
 -
   id: 318
   name: "Patrick"
@@ -450,8 +421,6 @@ kant profileert hij zich als docent: bij de Geo-Academie en diverse hogsecholen.
   bio: ""
   thumbnailUrl: placeholder.png 
   rockstar: true
-#   social:
-#     - {name: "linkedin", link: "https://www.linkedin.com/"}
 -
   id: 319
   name: "Britta"
@@ -461,8 +430,6 @@ kant profileert hij zich als docent: bij de Geo-Academie en diverse hogsecholen.
   bio: ""
   thumbnailUrl: placeholder.png 
   rockstar: true
-#   social:
-#     - {name: "linkedin", link: "https://www.linkedin.com/"}
 -
   id: 320
   name: "Wouter"
@@ -472,8 +439,6 @@ kant profileert hij zich als docent: bij de Geo-Academie en diverse hogsecholen.
   bio: ""
   thumbnailUrl: placeholder.png 
   rockstar: true
-#   social:
-#     - {name: "linkedin", link: "https://www.linkedin.com/"}
 -  id: 321
   name: "Monique"
   surname: "Bennen"
@@ -482,8 +447,6 @@ kant profileert hij zich als docent: bij de Geo-Academie en diverse hogsecholen.
   bio: ""
   thumbnailUrl: placeholder.png 
   rockstar: true
-#   social:
-#     - {name: "linkedin", link: "https://www.linkedin.com/"}
 -
   id: 322
   name: "Allard Hans"
@@ -493,8 +456,6 @@ kant profileert hij zich als docent: bij de Geo-Academie en diverse hogsecholen.
   bio: ""
   thumbnailUrl: placeholder.png 
   rockstar: true
-#   social:
-#     - {name: "linkedin", link: "https://www.linkedin.com/"}
 -
   id: 323
   name: "Ronnie"
@@ -504,8 +465,6 @@ kant profileert hij zich als docent: bij de Geo-Academie en diverse hogsecholen.
   bio: ""
   thumbnailUrl: placeholder.png 
   rockstar: true
-#   social:
-#     - {name: "linkedin", link: "https://www.linkedin.com/"}
 -
   id: 324
   name: "Leon"
@@ -515,8 +474,6 @@ kant profileert hij zich als docent: bij de Geo-Academie en diverse hogsecholen.
   bio: ""
   thumbnailUrl: placeholder.png 
   rockstar: true
-#   social:
-#     - {name: "linkedin", link: "https://www.linkedin.com/"}
 -
   id: 325
   name: "Casper"
@@ -526,8 +483,6 @@ kant profileert hij zich als docent: bij de Geo-Academie en diverse hogsecholen.
   bio: ""
   thumbnailUrl: placeholder.png 
   rockstar: true
-#   social:
-#     - {name: "linkedin", link: "https://www.linkedin.com/"}
 -
   id: 326
   name: "Tom"
@@ -537,8 +492,6 @@ kant profileert hij zich als docent: bij de Geo-Academie en diverse hogsecholen.
   bio: ""
   thumbnailUrl: placeholder.png 
   rockstar: true
-#   social:
-#     - {name: "linkedin", link: "https://www.linkedin.com/"}
 -
   id: 327
   name: "Jaap-Willem"
@@ -548,8 +501,6 @@ kant profileert hij zich als docent: bij de Geo-Academie en diverse hogsecholen.
   bio: ""
   thumbnailUrl: placeholder.png 
   rockstar: true
-#   social:
-#     - {name: "linkedin", link: "https://www.linkedin.com/"}
 -
   id: 328
   name: "Jaap"
@@ -559,5 +510,3 @@ kant profileert hij zich als docent: bij de Geo-Academie en diverse hogsecholen.
   bio: ""
   thumbnailUrl: placeholder.png 
   rockstar: true
-#   social:
-#     - {name: "linkedin", link: "https://www.linkedin.com/"}
