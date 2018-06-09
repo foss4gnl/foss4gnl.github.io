@@ -469,31 +469,31 @@ In theorie."
   title: "Portable Antiquities of the Netherlands"
   description: ""
   subtype: presentation
-  speakers: []
+  speakers: [314]
 -
   id: 502
   title: "Radar en AIS data met R"
   description: ""
   subtype: presentation
-  speakers: []
+  speakers: [315]
 -
   id: 503
-  title: "Niene Boeijen	"
+  title: "Niene Boeijen"
   description: ""
   subtype: presentation
-  speakers: []
+  speakers: [202]
 -
   id: 504
   title: "Heel NL in 3D"
   description: "Uitleg over hoe we met AHN en BGT heel Nederland geschikt hebben gemaakt voor een 3D geluidmodel"
   subtype: presentation
-  speakers: []
+  speakers: [316]
 -
   id: 505
   title: "INSPIRE als best practice ipv verplichting"
   description: "De afgelopen 10 jaar is er veel tijd en moeite geïnvesteerd om aan de verplichtingen van INSPIRE te voldoen. De implementaties die gerealiseerd zijn worden echter in minimale mate gebruikt. Daardoor heeft INSPIRE voor velen een negatieve bijklank gekregen en degenen die niet 'aangemerkt' zijn, hebben zich minimaal verdiept in de materie. Dat is jammer, want INSPIRE heeft wel degelijk diverse krachtige conventies geïntroduceerd, die mits breed uitgerold, de samenwerking rond data sterk verbeteren. In deze presentatie wil ik afrekenen met de gedachte dat INSPIRE slechts meerwaarde heeft voor die enkele aangemerkte data provider en de Europese commissie als afnemer. Maar verhelderen dat de conventies van INSPIRE veel breder toepasbaar zijn en een mooie leidraad vormen voor het inrichten en gebruiken van welke Ruimtelijk Data Infrastructuur dan ook. Dit alles aan de hand van open standaarden en met bewezen open source software componenten, zoals Geoserver, PostGIS, QGIS, OGR, GeoNetwork, ETF, LDproxy, Hale is een effectieve architectuur in te richten, die de conventies van INSPIRE ten volle benut."
   subtype: presentation
-  speakers: []
+  speakers: [210]
 -
   id: 506
   title: "Beheren van applicaties ESRI vs OpenSource"
