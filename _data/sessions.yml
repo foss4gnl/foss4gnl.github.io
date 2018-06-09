@@ -360,99 +360,99 @@ behoeve van centrale ontsluiting"
   description: "Een presentatie voor eindgebruikers. Minimale kennis van GIS is vereist, maar ook interessant voor ervaren GIS-ers.<br>
 Beginnend met een korte samenvatting van de geschiedenis van het MapWindow project, zal ik uitleggen wat MapWindow GIS en MapWinGIS zijn, waar het voor wordt gebruikt en wat het allemaal kan."
   subtype: presentation
-  speakers: []
+  speakers: [300]
 -
   id: 301
   title: "Channel Builder en Catchment Builder obv MapWindow"
   description: "De Nederlandse watersector maakt veel gebruik van simulatiemodellen. Hiermee is het onder andere mogelijk om overstromingen en droogte te voorspellen, infrastructuur te dimensioneren en het effect van klimaatverandering en bodemdaling in beeld te brengen. Om zo'n simulatiemodel te bouwen is erg veel omgevingsdata nodig. Dit varieert van dwarsprofielen van watergangen tot bodemsoort, landgebruik en neerslag. Er zijn dus talloze GIS-bewerkingen mee gemoeid. Hydroconsult gebruikt de Open Source-bibliotheek van MapWindow om geheel automatisch én reproduceerbaar modellen te bouwen op basis van brongegevens in GIS."
   subtype: presentation
-  speakers: []
+  speakers: [301]
 -
   id: 302
   title: "GeoBlacklight als zoekplatform voor universitaire data collecties"
   description: "Blacklight is een open source initiatief van universiteitsbibliotheken voor het bouwen van een beter Discovery platform. GeoBlacklight is de ruimtelijke variant gemaakt om het delen en vinden van geo(meta)data te verbeteren. Naast VU Geoplaza, een met open source gebouwd portaal met geodata van en voor onderzoek en onderwijs, heeft de Vrije Universiteit nu een proof-of-concept gebouwd voor een laagdrempelig zoekplatform gevuld met metadata van universitaire kaartcollecties en geodata. Met dit platform willen we de rijke collecties van universiteiten beter vindbaar maken, allereerst voor onderzoekers, maar ook voor het brede publiek."
   subtype: presentation
-  speakers: []
+  speakers: [302]
 -
   id: 303
   title: "Richard Hendriks & Itay Bar-on"
   description: ""
   subtype: presentation
-  speakers: []
+  speakers: [303, 304]
 -
   id: 304
   title: "NLMaps: samenwerken in kaart viewers"
   description: "Met de BRT-Achtergrondkaart en luchtfoto's in Leaflet of OpenLayers biedt NL Maps aan ontwikkelaars de meest actuele, gedetailleerde kaart van Nederland voor het Web. Een jaar geleden onder een open licentie ontwikkeld door het Kadaster haakte onlangs de gemeente Amsterdam aan voor doorontwikkeling. Hoe kan je NL Maps gebruiken en aanpassen? Wie bouwt er ook mee? Aan welke functionaliteit is behoefte? Wat kunnen we leren van andere open-source geo-viewers die de overheid in de loop der jaren heeft gemaakt?"
   subtype: presentation
-  speakers: []
+  speakers: [12]
 -
   id: 305
   title: "Met PICO Nederland duurzaam maken"
   description: "PICO onsluit zeer veel energietransitie gerelateerde opendata als vrij beschikbare kaartlagen met QGis server. Een voorbeeldcase waarbij met open data en opensource software de BV Nederland duurzaam gemaakt wordt"
   subtype: presentation
-  speakers: []
+  speakers: [305]
 -
   id: 306
   title: "Stetl: geo-conversie-motor in NLExtract en Smart Emission"
   description: "Stetl (Streaming ETL) is een Python framework om conversie/transformatie op geo-data te doen. In Stetl definieer je in een config bestand proces-ketens (Chains) van Inputs, Filters en Outputs die in stappen een conversie-proces beschrijven en gekoppeld zijn aan Python classes. Stetl is zeg maar een Open Source FME, alleen zonder GUI. In deze presentatie een korte inleiding in de basis principes van Stetl, en dan vooral praktijkvoorbeelden uit NLExtract en Smart Emission."
   subtype: presentation
-  speakers: []
+  speakers: [5]
 -
   id: 307
   title: "Geopapaparazzi, de mobiele GIS app"
   description: "Een introductie van de Android Geopaparazzi mobiele survey applicatie, die ook de basis is van de nieuwe gvsig mobile app"
   subtype: presentation
-  speakers: []
+  speakers: [13]
 -
   id: 400
   title: "QGIS gaat 3-D"
   description: "Sinds versie 3.0 biedt QGIS een nieuwe '3D Map view'. Hiermee kun je driedimensionale kaartbeelden maken, als je er tenminste data met hoogtegegevens hebt. In deze presentatie gaan we stapsgewijs een paar 3D kaarten samenstellen, enerzijds met bestaande terreindata van PDOK, en anderzijds met uit AHN berekende pandhoogte data voor een 3D stadsbeeld. Na de presentatie kun je zelf in QGIS je eerste 3D kaartbeeld maken."
   subtype: presentation
-  speakers: []
+  speakers: [308]
 -
   id: 401
   title: "Hisgis & OSM"
   description: ""
   subtype: presentation
-  speakers: []
+  speakers: [309]
 -
   id: 402
   title: "MapGallery"
   description: "MapGallery is een eenvoudige oplossing voor interactieve kaarten op het web. Deze WebGIS viewer is gebruiksvriendelijk, snel en compatible met elke OGC webservice. Ontworpen met de allernieuwste webtechnologieen, zoals typescript en Angular 5, en al reeds in gebruik bij verschillende overheden, is deze viewer klaar voor de toekomst.<br>
 Demo's: woonzorgwijzer.info"
   subtype: presentation
-  speakers: []
+  speakers: [310]
 -
   id: 403
   title: "Wanneer kiezen voor Leaflet of OpenLayers (2,3,4)? Overwegingen vanuit de dagelijkse praktijk."
   description: "Peter-Paul (GeoNovation B.V.) is in 2006 met de Google Maps API begonnen om webbased viewers te maken. In 2007 overgestapt naar OpenLayers.<br>
 Nu aanbeland in 2018 zal hij toelichten waarom en welke keuzes zijn gemaakt bij het maken van webbased GIS viewers. Zaken zoals WMS en WFS, JSON en GML, tekenmogelijkheden, maar ook bv. het kunnen toepassen van de juiste projecties zullen aan bod komen."
   subtype: presentation
-  speakers: []
+  speakers: [311]
 -
   id: 404
   title: "Locatieserver PDOK"
   description: "In deze presentatie geven Gerwin Hulsteijn en Frank Steggink informatie over de nieuwste versie van Locatieserver, de geocodeerservice van PDOK. Op xx juni is/wordt versie vier in productie genomen. Welke datasets zijn er toegevoegd, waar komt de informatie vandaan en hoe is de informatie gecombineerd met bestaande datasets en diverse tips en tricks. Tevens wordt er aandacht besteed aan de infrastructuur. De oude versie draaide al op Docker. Momenteel zijn we bezig om Locatieserver en andere diensten via Kubernetes in de cloud te brengen. De eerste ervaringen hiermee zullen tijdens deze presentatie worden gedeeld."
   subtype: presentation
-  speakers: []
+  speakers: [4]
 -
   id: 405
   title: "Wandelen op oude kaarten"
   description: "Interactieve georeferentie en rubbersheeting van oude kaarten met maximale precisie en minimale vertekening met behulp van NTV2-technieken. Doel is niet alleen om oude kaarten in real time zo precies mogelijk over moderne kaarten te positioneren, en ze daarmee combineerbaar te maken met beeld- en tekst-materiaal. Het gaat er ook om de omgekeerde weg: het rubbersheeten en projecteren van moderne kaarten over oude kaarten in hun oorspronkelijke ligging, zodat die in al hun schoonheid en expressiviteit kunnen worden weergegeven, ook op handhelds voor wandelingen ter plekke."
   subtype: presentation
-  speakers: []
+  speakers: [14]
 -
   id: 406
   title: "PyGeoAPI - Towards a Python Web API for Emerging OGC Standards"
   description: "WFS3.0 is being being developed using a more agile approach based on REST services and openAPI 3.0 specification. The standards is first structured as API/ REST endpoints using openAPI notifications, later developers can used the openAPI structure to create servers and or clients for WFS3.0. PyGeoAPI is one of the current pre-WFS3.0 implementations, where all the REST is programmed using the Flask web framework and fully integrated swagger/openAPI structure. Its structure allows for deployment of dataset from multiple sources into a WFS3.0. SpatialTemporal Asset Catalog (STAC) is being develop parallel to WFS3.0 it intends standardize the how geospatial assets are exposed online and queried."
   subtype: presentation
-  speakers: []
+  speakers: [211]
 -
   id: 407
   title: "PDOK Geopackage & Mapserver"
   description: "De 'noodzaak' voor een OGC stack op basis van Geopackage en Mapserver tbv onze Cloud migratie."
   subtype: presentation
-  speakers: []
+  speakers: [313]
 -
   id: 500
   title: "How to start your own Remote Sensing company."
@@ -463,7 +463,7 @@ Nu aanbeland in 2018 zal hij toelichten waarom en welke keuzes zijn gemaakt bij 
 <br><br>
 In theorie."
   subtype: presentation
-  speakers: []
+  speakers: [200]
 -
   id: 501
   title: "Portable Antiquities of the Netherlands"
