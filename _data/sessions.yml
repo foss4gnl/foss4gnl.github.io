@@ -405,7 +405,7 @@ Beginnend met een korte samenvatting van de geschiedenis van het MapWindow proje
 -
   id: 400
   title: "QGIS gaat 3-D"
-  description: "Sinds versie 3.0 biedt QGIS een nieuwe "3D Map view". Hiermee kun je driedimensionale kaartbeelden maken, als je er tenminste data met hoogtegegevens hebt. In deze presentatie gaan we stapsgewijs een paar 3D kaarten samenstellen, enerzijds met bestaande terreindata van PDOK, en anderzijds met uit AHN berekende pandhoogte data voor een 3D stadsbeeld. Na de presentatie kun je zelf in QGIS je eerste 3D kaartbeeld maken."
+  description: "Sinds versie 3.0 biedt QGIS een nieuwe '3D Map view'. Hiermee kun je driedimensionale kaartbeelden maken, als je er tenminste data met hoogtegegevens hebt. In deze presentatie gaan we stapsgewijs een paar 3D kaarten samenstellen, enerzijds met bestaande terreindata van PDOK, en anderzijds met uit AHN berekende pandhoogte data voor een 3D stadsbeeld. Na de presentatie kun je zelf in QGIS je eerste 3D kaartbeeld maken."
   subtype: presentation
   speakers: []
 -
