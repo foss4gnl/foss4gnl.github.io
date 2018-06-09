@@ -375,24 +375,30 @@ Beginnend met een korte samenvatting van de geschiedenis van het MapWindow proje
   speakers: []
 -
   id: 303
+  title: "Richard Hendriks & Itay Bar-on"
+  description: ""
+  subtype: presentation
+  speakers: []
+-
+  id: 304
   title: "NLMaps: samenwerken in kaart viewers"
   description: "Met de BRT-Achtergrondkaart en luchtfoto's in Leaflet of OpenLayers biedt NL Maps aan ontwikkelaars de meest actuele, gedetailleerde kaart van Nederland voor het Web. Een jaar geleden onder een open licentie ontwikkeld door het Kadaster haakte onlangs de gemeente Amsterdam aan voor doorontwikkeling. Hoe kan je NL Maps gebruiken en aanpassen? Wie bouwt er ook mee? Aan welke functionaliteit is behoefte? Wat kunnen we leren van andere open-source geo-viewers die de overheid in de loop der jaren heeft gemaakt?"
   subtype: presentation
   speakers: []
 -
-  id: 304
+  id: 305
   title: "Met PICO Nederland duurzaam maken"
   description: "PICO onsluit zeer veel energietransitie gerelateerde opendata als vrij beschikbare kaartlagen met QGis server. Een voorbeeldcase waarbij met open data en opensource software de BV Nederland duurzaam gemaakt wordt"
   subtype: presentation
   speakers: []
 -
-  id: 305
+  id: 306
   title: "Stetl: geo-conversie-motor in NLExtract en Smart Emission"
   description: "Stetl (Streaming ETL) is een Python framework om conversie/transformatie op geo-data te doen. In Stetl definieer je in een config bestand proces-ketens (Chains) van Inputs, Filters en Outputs die in stappen een conversie-proces beschrijven en gekoppeld zijn aan Python classes. Stetl is zeg maar een Open Source FME, alleen zonder GUI. In deze presentatie een korte inleiding in de basis principes van Stetl, en dan vooral praktijkvoorbeelden uit NLExtract en Smart Emission."
   subtype: presentation
   speakers: []
 -
-  id: 306
+  id: 307
   title: "Geopapaparazzi, de mobiele GIS app"
   description: "Een introductie van de Android Geopaparazzi mobiele survey applicatie, die ook de basis is van de nieuwe gvsig mobile app"
   subtype: presentation
