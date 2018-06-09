@@ -499,73 +499,73 @@ In theorie."
   title: "Beheren van applicaties ESRI vs OpenSource"
   description: ""
   subtype: presentation
-  speakers: []
+  speakers: [318]
 -
   id: 507
   title: "Open Source Web GIS in International Context"
   description: "Contemporary Web GIS is used for a wide range of endeavors from volunteered geographic information collection to interacting with governmental open data. Each web GIS project has unique data goals and diverse user needs. These are the factors that should dictate the choice of tools selected to construct a web GIS. Both open source and proprietary tools have their pros and cons which need to be considered before a final decision has been made for tool selection. In this presentation I will briefly describe three different international contexts (United States, South Africa, New Zealand) and projects (two related to disaster preparedness and one related to urban governance) in which these types of decisions have had to be made. I will describe the decision making process related to ease of use for both tool builder and end user ultimate influenced Web GIS design decisions."
   subtype: presentation
-  speakers: []
+  speakers: [319]
 -
   id: 508
   title: "Waarom moeilijk doen om het makkelijk te maken? - Docker voor GIS"
   description: ""
   subtype: presentation
-  speakers: []
+  speakers: [320]
 -
   id: 600
   title: "Open source data bij integrale afwegingen in het kader van de omgevingswet"
   description: "Bij het opstellen van omgevingsvisies en omgevingsplannen is een integrale benadering van de inrichting van onze fysieke leefomgeving van toenemend belang. Dit wordt nog eens versterkt door de toenemende druk op de beschikbare ruimte. Het combineren van meerdere (open source) ruimtelijke datasets vormt een ideale basis voor het beantwoorden van de complexe inrichtingsvraagstukken die hierbij spelen. Gebruiksvriendelijke standaarden en tooling, zodat de verschillende data eenduidig gecombineerd kunnen worden zijn hierbij van cruciaal belang. "
   subtype: presentation
-  speakers: []
+  speakers: [321]
 -
   id: 601
   title: "Zoet-zoutverdeling Zeeuwse ondergrond"
   description: ""
   subtype: presentation
-  speakers: []
+  speakers: [205]
 -
   id: 602
   title: "Verstening van tuinen"
   description: "Verstening van tuinen, met name in stedelijke omgevingen, wordt steeds vaker een aandachtspunt voor klimaatadaptatie. Deze kleine stukjes privé-eigendom vormen samen een belangrijk deel van de stedelijke groen-blauwe infrastructuur mits ze groen zijn. Maar in hoeverre zijn tuinen eigenlijk groen? Dit is één van de belangrijkste vragen die ik in mijn onderzoek naar versteningspatronen heb onderzocht. Voor dit onderzoek heb ik gebruik gemaakt van verschillende open datasets (BGT, Percelen etc.) en plugins in QGIS, (waaronder de classification plugin en spatial statistics plugin) om te onderzoeken welke factoren meespelen in verstening van tuinen, en of er ruimtelijke patronen in deze verstening te vinden zijn. In mijn presentatie neem ik je mee door het hele onderzoeksproces om de mogelijkheden van QGIS in onderzoek te laten zien."
   subtype: presentation
-  speakers: []
+  speakers: [322]
 -
   id: 603
   title: "Vastgoedanalyses met de BAG in PostGIS"
   description: ""
   subtype: presentation
-  speakers: []
+  speakers: [323, 324]
 -
   id: 604
   title: "De kracht van PostGIS 3D analyse"
   description: "PostGIS kent zeer uitgebreide ruimtelijke analyse mogelijkheden, meestal gebruik je deze in 2 dimensies en toon je de resultaten in je favoriete GIS applicatie of geo-viewer. Een buffer of intersectie is immers snel gemaakt in de database met de diverse ST_* functies. Wist je echter dat je ook ruimtelijke analyse in 3 dimensies kunt uitvoeren met PostGIS? Hiervoor gebruik je weliswaar grotendeels dezelfde functie-set maar hoe weet je of een ruimtelijke intersectie ook oplevert wat je voor ogen had? Vaak heb je een idee, je test het uit, bekijkt het. Dit is vaak een iteratief proces waar je steeds wat wilt bijstellen en opnieuw wilt kijken. Om deze manier van modelleren, queries bouwen en visualiseren te ondersteunen hebben we vanuit Geon de OSS PostGIS3DExplorer gebouwd en gepubliceerd. In onze presentatie laten we zien hoe je stapsgewijs een 3D analyse kunt uitvoeren en visualiseren."
   subtype: presentation
-  speakers: []
+  speakers: [207]
 -
   id: 605
   title: "Using computational graphs for geographical raster data sets"
   description: "Fast access to high resolution raster data is a basic requirement for geographical information systems (GIS). Inspired by dask, a Python library for parallelized computing, we here demonstrate the use of computation graphs in for example the on-the-fly computation of heat stress maps."
   subtype: presentation
-  speakers: []
+  speakers: [325]
 -
   id: 606
   title: "Automatische 3D reconstructie van steden met 3dfier"
   description: "De door de TU Delft ontwikkelde open-source software 3dfier maakt gebruik van 2D polygonen en 3D puntenwolken om een waterdicht 3D model te maken van de omgeving. Deze data kan worden gebruikt voor simulaties en visualisatie. 3dfier wordt door Kadaster gebruikt voor het maken van 3D modellen voor heel Nederland (Top10NL3D 2018 en binnenkort ook gebaseerd op BGT). Ook wordt er in overleg met Rijkswaterstaat gekeken naar gebruik voor het maken van gestandaardiseerde geo-data voor geluidsimulaties."
   subtype: presentation
-  speakers: []
+  speakers: [326]
 -
   id: 607
   title: "Generieke Geo Componenten: op naar bruikbare geobouwstenen"
   description: "Binnen het Kadaster draaien er veel verschillende kaartviewers. Hoewel deze viewers vaak dezelfde kaartfunctionaliteit bieden, kan het onderhouden en updaten hiervan lastig zijn, omdat ze verschillende soorten frameworks en (soms verouderde) libraries gebruiken. Ook bij het ontwikkelen van nieuwe viewers wordt telkens het wiel weer uitgevonden. Om dit voor de toekomst te voorkomen, worden er daarom nu 'Generieke Geo Componenten' ontwikkeld. Maar deze problemen spelen niet alleen binnen het Kadaster. Daarom zijn we het zeker niet van plan om dit alleen te doen!"
   subtype: presentation
-  speakers: []
+  speakers: [327]
 -
   id: 608
   title: "Jaap Schellekens"
   description: ""
   subtype: presentation
-  speakers: []
+  speakers: [328]
 -
   id: 0
   title: ""
