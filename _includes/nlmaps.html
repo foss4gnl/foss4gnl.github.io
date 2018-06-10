@@ -17,14 +17,16 @@
                 overlay: 'false',
                 marker: false,
                 zoom: 11,
-                search: true
+                search: true,
             };
             
             var map = nlmaps.createMap(opts);
                 
             map.scrollWheelZoom.disable();
                 
-            map.dragging.disable();
+//             map.dragging.disable();
+                
+            map = L.map('map', {dragging: !L.Browser.mobile});
                 
             var marker = L.marker([52.3716506, 5.2192361]).addTo(map);
             marker.bindPopup("<strong>Aeres Hogeschool</strong><br>Stadhuisstraat 18<br>Almere").openPopup();
