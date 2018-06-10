@@ -50,7 +50,7 @@
     - {
     	startTime: "",
     	endTime: "",
-    	sessionIds: [304, 404, 504, 604]
+    	sessionIds: [304, 408, 504, 604]
     }
     - {
     	startTime: "",
