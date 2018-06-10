@@ -71,7 +71,7 @@
   company: "Imergis"
   title: "Oprichter, directeur"
   bio: "Jan-Willem van Aalst (1970) werkt als zelfstandig geodata scientist en cartografisch vormgever. Hij richt zich met name op het afstemmen van het snel groeiende geodata-aanbod op de behoeften van overheden voor het ruimtelijk georiënteerd werken in brede zin. Jan-Willem is oprichter en beheerder van www.opentopo.nl en www.gemeentenatlas.nl, waarin basisregistraties van de overheid worden gecombineerd. Hij geeft met regelmaat workshops over het praktisch toepassen van nieuwe mogelijkheden op het gebied van geodata."
-  thumbnailUrl: JanWillemvanAalst.jpg
+  thumbnailUrl: JanWillemVanAalst.jpg
   rockstar: true
   social: 
     - {name: "twitter", link: "https://twitter.com/janwillemvaalst"}
@@ -195,8 +195,10 @@ geinteresseerd in machine learning en heeft het grootste deel van de open-source
   surname: "Meerburg"
   company: "Geo Academie"
   title: "Directeur, Oprichter"
-  bio: ""
-  thumbnailUrl: placeholder.jpg 
+  bio: "Erik Meerburg is een bijzondere geodeet. Hij is altijd op zoek naar zaken die afwijken, om ze vervolgens met grote genegenheid te koesteren. Zijn collega's van de Geo Academie neemt hij dan ook graag mee op bijzondere activiteiten als ijskarten, lacrosse, curling en urbaan bijlwerpen. Zijn neus voor afwijkende zaken en zijn fijne wijze van presenteren maken hem tot een inspirerende spreker op plekken die wel een verandering kunnen gebruiken. Zo kennen velen hem ook van zijn activiteiten rond de transitie in de BGT.
+
+Als directeur van, en docent aan, de Geo Academie zorgt Erik voor een fijne sfeer waarin mensen makkelijk leren en, waar nodig, stijl de diepte in kunnen. Inmiddels is Erik fervent Open Source aanhanger en kent hij alle ins en outs van QGIS. Hij draagt regelmatig bij aan de Open Source wereld door het (mede) organiseren van evenementen."
+  thumbnailUrl: ErikMeerburg.jpg 
   rockstar: true
 - 
   id: 205
@@ -204,7 +206,11 @@ geinteresseerd in machine learning en heeft het grootste deel van de open-source
   surname: "Duiker"
   company: "Geo Academie, Open Geo Groep, FRESHEM"
   title: "Docent, Project Manager"
-  bio: ""
+  bio: "Marco Duiker heeft één thema: alles geo. Hierin is hij bijzonder breed te noemen. Zo snapt hij hoe je geografische webservices in elkaar zet die ook daadwerkelijk zin hebben, weet hij alles wat los en vast zit aan standaarden binnen de ruimtelijke ordening, en heeft hij een heel fijn gevoel voor hoe je ruimtelijke gegevens op een juiste manier gebruikt, om drie dingen te noemen. Daarnaast is hij een van de weinige mensen in het vakgebied die standaarden daadwerkelijk leest, en ze ook doorgrond.
+
+Dat is op zich al speciaal, maar hij kan dit ook nog eens makkelijk verpakken: als hij vertelt hoe het in elkaar zit, dan snap je het ook.
+
+Marco werkt als zelfstandige inder de naam MD-kwadraat, is aangesloten bij de OpenGeoGroep en als docent bij de de Geo Academie actief. Daarnaast heeft hij een zwak voor buitensporten zolang er een fiets bij betrokken is, of er iets te beklimmen valt. Hij is ooit opgeleid als fysisch geograaf, maar tegenwoordig door zijn combinatie van werk en hobby's beter te karakteriseren als fysiek geo-informaticus."
   thumbnailUrl: placeholder.jpg
   rockstar: true
 - 
@@ -239,9 +245,11 @@ geinteresseerd in machine learning en heeft het grootste deel van de open-source
   name: "Quinten"
   surname: "Dengerink"
   company: "Geon"
-  title: ""
-  bio: ""
-  thumbnailUrl: placeholder.png
+  title: "Adviseur"
+  bio: "Sinds 5 jaar werkzaam in de geo-wereld, waarvan 3 jaar werkzaam bij Geon. Geon geeft geo-advies aan met name overheden voor zowel het proces, de geo-infrastructuur als de technische kant.
+
+Door een achtergrond in de Technische en Sociale Planologie, aangevuld met de Nationale GI minor en de opleiding tot GIS specialist, combineer ik ook graag deze praktijk met de techniek. Mijn enthousiasme vind ik in het sleutelen aan complexe analyses om ze zo toepasbaar te maken voor allerhande praktijksituaties. Dit kan zowel in de publieke als in de humanitaire sector zijn. Hierbij maak ik  graag gebruik van een breed scala aan (open-source) tooling en software, waarvan de 3DPostGIS-component van vandaag een is. Als ik aan het eind van de dag duidelijk kan maken in welke gevallen deze functionaliteit handig is om de juiste informatie uit de data te halen om uw organisatie verder te helpen, en daarbij ook nog eens voor u begrijpelijk kan maken hoe u er zelf mee aan de slag kan, is mijn werkdag geslaagd!"
+  thumbnailUrl: QuintenDengerink.jpg
   rockstar: true
 - 
   id: 209
@@ -326,15 +334,6 @@ kant profileert hij zich als docent: bij de Geo-Academie en diverse hogsecholen.
   name: "Arendjan"
   surname: "van der Neut"
   company: "Geodan"
-  title: ""
-  bio: ""
-  thumbnailUrl: placeholder.png 
-  rockstar: true
--
-  id: 308
-  name: "Jan-Willem"
-  surname: "van Aalst"
-  company: "Imergis"
   title: ""
   bio: ""
   thumbnailUrl: placeholder.png 
