@@ -375,8 +375,8 @@ Beginnend met een korte samenvatting van de geschiedenis van het MapWindow proje
   speakers: [302]
 -
   id: 303
-  title: "Richard Hendriks & Itay Bar-on"
-  description: ""
+  title: "Hoe OS GIS en ETL bijdraagt aan integraal advies in ruimtelijke ontwikkelingen en vraagstukken"
+  description: "Richard Hendriks en Itay Bar-on laten zien hoe OS GIS en ETL bijdraagt aan dagelijkse processen bij AGEL adviseurs. Daarnaast ook de flexibiliteit in een veranderden markt waar innovaties en nieuwe ontwikkelingen worden ingepast en met samenwerking worden geborgd."
   subtype: presentation
   speakers: [303, 304]
 -
@@ -497,7 +497,7 @@ In theorie."
 -
   id: 506
   title: "Beheren van applicaties ESRI vs OpenSource"
-  description: ""
+  description: "Wat komt er kijken bij het beheren van applicaties. Tijdens mijn presentatie ga ik in op het beheren van applicaties binnen het ESRI platform en het Open Source platform. Wat zijn mijn ervaringen en wat zijn mijn ideeën over het inzetten van de verschillende platformen"
   subtype: presentation
   speakers: [318]
 -
