@@ -430,11 +430,11 @@ Nu aanbeland in 2018 zal hij toelichten waarom en welke keuzes zijn gemaakt bij 
   subtype: presentation
   speakers: [311]
 -
-  id: 404
+  id: 408
   title: "Locatieserver PDOK"
   description: "In deze presentatie geven Gerwin Hulsteijn en Frank Steggink informatie over de nieuwste versie van Locatieserver, de geocodeerservice van PDOK. Op xx juni is/wordt versie vier in productie genomen. Welke datasets zijn er toegevoegd, waar komt de informatie vandaan en hoe is de informatie gecombineerd met bestaande datasets en diverse tips en tricks. Tevens wordt er aandacht besteed aan de infrastructuur. De oude versie draaide al op Docker. Momenteel zijn we bezig om Locatieserver en andere diensten via Kubernetes in de cloud te brengen. De eerste ervaringen hiermee zullen tijdens deze presentatie worden gedeeld."
   subtype: presentation
-  speakers: []
+  speakers: [4]
 -
   id: 405
   title: "Wandelen op oude kaarten"
