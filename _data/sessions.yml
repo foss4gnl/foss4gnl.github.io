@@ -472,8 +472,8 @@ In theorie."
   speakers: [314]
 -
   id: 502
-  title: "Radar en AIS data met R"
-  description: ""
+  title: "Complexe radar-data en lokale kennis: Webmapping van fuzzy data"
+  description: "Één van de belangrijkste uitdagingen voor het Waddengebied is het managen van interacties tussen mensen die gebruik maken van het Wad, en de ruimtelijke eisen van het ecosysteem. In het project Vaarrecreatie op het Wad wordt getracht inzicht te verschaffen in de ruimtelijke spreiding van vaarrecreanten en kleine scheepvaart door middel van radar-data. De radar-data maakt het mogelijk om kleine scheepvaart op het Wad te volgen, maar bevat een grote hoeveelheid ruis. Door middel van interactieve sessies op basis van web mapping wordt gepoogd de data inzichtelijk te maken."
   subtype: presentation
   speakers: [315]
 -
