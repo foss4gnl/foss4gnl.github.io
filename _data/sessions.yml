@@ -562,8 +562,8 @@ In theorie."
   speakers: [327]
 -
   id: 608
-  title: "Jaap Schellekens"
-  description: ""
+  title: "Building an operational high resolution satellite based soil moisture service"
+  description: "At VanderSat we have developed a method to provide accurate high-resolution images of soil moisture, at any place on Earth 24/7 a year. Soil moisture is a key indicator for the physical status of a plant, and has a strong predictive value with respect to crop yield and weather conditions including flooding and droughts. By combining microwave data obtained from different satellites we are revealing a revolutionary data set that can be used to retrieve key information about the water availability for crops at field level. In the presentation I will discuss how we have used open source geospatial software to build our services and how this contributes to the ESA CCI climate services and the IPCC reports.	"
   subtype: presentation
   speakers: [328]
 -
