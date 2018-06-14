@@ -227,25 +227,26 @@ Na afloop kan je:<br>
   id: 202
   title: "Ruimtelijke analyse? In PostGIS natuurlijk!"
   subtype: workshop
-  description: "Voorkennis: <br>
-U kunt queries maken met SQL<br><br>
-Tuurlijk, een desktop GIS-pakket is handig voor het maken van ruimtelijke analyses. Maar wist u dat
-u met PostGIS ook direct in de PostgreSQL database geodata kunt bewerken en analyseren?En dat
-dat voordelen biedt?<br><br>
-In deze workshop geven we u een inkijk in de wereld van PostGIS. Wat is PostGIS eigenlijk? Hoe zit
+  description: "Tuurlijk, een desktop GIS-pakket is handig voor het maken van ruimtelijke analyses. Maar wist je
+dat je met PostGIS ook direct in de PostgreSQL database geodata kunt bewerken en analyseren? En
+dat dat voordelen biedt?<br><br>
+In deze workshop geven we je een inkijk in de wereld van PostGIS. Wat is PostGIS eigenlijk? Hoe zit
 geodata in het programma en wat kunnen we daar dan mee? En het belangrijkste: wat zijn dan die
 voordelen?<br><br>
 Dit doen we door een eigen PostGIS database aan te maken en deze te vullen met data uit
 bestanden zoals shapefiles, CSV- en GML-bestanden. En dan begint het spelen, want wie data heeft,
-kan analyses maken! Hoe zorg ik dat alle data in het zelfde coördinaatstelsel staat? Wat is het
-dichtstbijzijnde zwembad? En als het buiten de bebouwde kom moet liggen?<br><br>
-Na afloop:<br>
-• weet u wat PostGIS is<br>
-• kent u de voordelen ten opzichte van desktop GIS<br>
-• kunt u een PostGIS database aanmaken<br>
-• kunt u datasets zoals shapefile, CSV, GML importeren<br>
-• kunt u ruimtelijke analyses maken met SQL"
-  speakers: [203]
+kan analyses maken! Hoe zorg je dat alle data in het zelfde coördinaatstelsel staat? Wat is het
+dichtstbijzijnde zwembad? En als het buiten de bebouwde kom moet liggen?<br>
+Neem je eigen laptop mee, met hierop PostgreSQL en PostGIS.<br><br>
+Voorkennis:<br>
+• Geen, je gebruikt databases als databron vanuit een desktop GIS.<br>
+• Nou vooruit, query's maken in SQL is handig.<br><br>
+Na afloop kun je:<br>
+• vertellen wat PostGIS is en wat de voordelen zijn ten opzichte van desktop GIS<br>
+• een PostGIS database aanmaken<br>
+• je database vullen door datasets zoals shapefile, CSV, GML te importeren<br>
+• ruimtelijke analyses maken met SQL"
+  speakers: [203, 329]
 -
   id: 203
   title: "Met QGIS meer uit de BGT halen"
