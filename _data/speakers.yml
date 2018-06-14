@@ -184,10 +184,18 @@ geinteresseerd in machine learning en heeft het grootste deel van de open-source
   id: 203
   name: "Jonna"
   surname: "Bosch"
-  company: "Nieuwland"
-  title: ""
-  bio: ""
-  thumbnailUrl: placeholder.png
+  company: "Nieuwland Geo-Informatie"
+  title: "GIS Expert en Docent"
+  bio: "Jonna heeft een passie voor kaarten en geodata(toepassingen). Hierbij is zij altijd op zoek naar
+nieuwe en gebruiksvriendelijke invalshoeken, die ze graag deelt met anderen. Zo neemt zij in haar
+vrije tijd graag deel aan MapTime en Missing Maps en was ze de afgelopen jaren onderdeel van de
+organisatie van de CartoDag en redacteur bij Geo-Info.
+Bij Nieuwland Geo-Informatie is zij docent Cartografie, PostGIS/PostgreSQL, GIS op desktop (QGIS,
+ArcGIS) of internet (Geoserver, WebGIS Publisher). Daarnaast voert zij ook projecten uit voor
+klanten, bijvoorbeeld GIS-analyses, inrichten van Geoserver of een cartografisch onderzoek. De
+laatste jaren is zij betrokken bij het maken, analyseren en documenteren van het logisch en
+technisch model voor de waterschappen, DAMO (zie damo.hetwaterschapshuis.nl)."
+  thumbnailUrl: JonnaBosch.jpg
   rockstar: true
 - 
   id: 204
