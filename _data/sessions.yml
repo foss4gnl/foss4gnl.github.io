@@ -267,7 +267,7 @@ Na afloop kan je:<br>
   speakers: [204]
 -
   id: 204
-  title: "Build you own QGIS plugin"
+  title: "Build your own QGIS plugin"
   subtype: workshop
   description: "Als je een beetje kunt knutselen in Python (of een andere programmeertaal), dan is het maken van een
 QGIS plugin best makkelijk. In deze workshop ga je dat dan ook doen en ga je gegarandeerd naar huis
