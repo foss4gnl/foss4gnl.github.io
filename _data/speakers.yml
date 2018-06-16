@@ -42,7 +42,7 @@
   title: "Open Source Geospatial Professional"
   bio: ""
   thumbnailUrl: placeholder.png
-#   thumbnailUrl: JustvandenBroecke.jpg
+  thumbnailUrl: JustvandenBroecke.jpg
   rockstar: true
 - 
   id: 6
@@ -517,7 +517,8 @@ kant profileert hij zich als docent: bij de Geo-Academie en diverse hogsecholen.
   name: "Peter"
   surname: "Kaspers"
   company: "Nieuwland Geo-Informatie"
-  title: ""
-  bio: ""
-  thumbnailUrl: placeholder.png 
+  title: "Onderwijscoördinator"
+  bio: "De drempel om met GIS te beginnen als gebruiker wordt steeds lager, dankzij de open source ontwikkeling. Als docent geeft Peter Kaspers steeds vaker les aan organisaties waarin GIS niet zozeer corebusiness is, maar waarin GIS wordt ontdekt als hulpmiddel om meer met de eigen geografische data te kunnen doen. Of het nu zoeken is naar de locaties voor de beste aardappelen in QGIS, of het beter kunnen inzetten van een PostGIS database. De diversiteit in doelgroepen die met open source software gaan werken neemt steeds meer toe.
+Peter beweegt zich ruim 20 jaar in de geo-wereld, eerst als student op de hogeschool Utrecht en Universiteit Utrecht. Daarna als docent GIS en onderwijs coördinator bij Nieuwland Geo-informatie. Zijn lesstijl wordt door anderen omschreven als bevlogen en enthousiast en hij hoopt dit tijdens deze workshop ook weer als positieve bijdrage te kunnen leveren."
+  thumbnailUrl: PeterKaspers.jpg 
   rockstar: true
