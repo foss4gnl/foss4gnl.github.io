@@ -225,11 +225,15 @@ Marco werkt als zelfstandige inder de naam MD-kwadraat, is aangesloten bij de Op
   id: 206
   name: "Raymond"
   surname: "Nijssen"
-  company: "OpenGeoGroep"
-  title: ""
-  bio: ""
-  thumbnailUrl: placeholder.png
+  company: "OpenGeoGroep (lid), Terglobo (zzp-er), QGIS (community member)"
+  title: "Geo-specialist"
+  bio: "Raymond is al 20 jaar werkzaam "in de geo-informatie", de laatste 10 jaar als zelfstandige en door de jaren steeds enthousiaster in de open source hoek beland. Hij is actief lid van de internationale QGIS community, vrijwilliger bij het Rode Kruis data team 510, actieve openstreetmapper en groot voorstander van het delen van kennis en informatie."
+  thumbnailUrl: RaymondNijssen.png
   rockstar: true
+  social:
+    - {name: "linkedin", "link: https://www.linkedin.com/in/raymond-nijssen-17227a6"}
+    - {name: "site", link: "http://terglobo.nl/"}
+    - {name: "site", link: "http://www.opengeogroep.nl/"}
 - 
   id: 207
   name: "Ronald"
