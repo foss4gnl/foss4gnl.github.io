@@ -182,8 +182,8 @@ footerBlocks:
 
 # Blog
 blogTitle: ""
-blogCommentsEnabled: true
-discusShortName: "devfestua"
+blogCommentsEnabled: false
+discusShortName: "osgeo"
 
 # Speakers List Block
 showSessions: true
