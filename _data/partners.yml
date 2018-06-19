@@ -8,6 +8,6 @@
 -
   group: "Zilver"
   elements:
-    - {name: "Geo Academie", "description: "Geo Academie", link: "https://geo-academie.nl", imageUrl: "logo-geoacademie.png"}
+    - {name: "Geo Academie", description: "Geo Academie", link: "https://geo-academie.nl", imageUrl: "logo-geoacademie.png"}
     - {name: "GeoCat", description: "GeoCat", link: "https://www.geocat.net/", imageUrl: "logo-geocat.png"}
     - {name: "Webmapper", description: "Webmapper", link: "https://www.webmapper.net", imageUrl: "logo-webmapper.svg"}
