@@ -2,12 +2,12 @@
   group: "Goud"
   elements: 
     - {name: "Merkator", description: "Merkator", link: "https://www.merkator.com", imageUrl: "logo-merkator.png"}
-    - {name: "Geon", description: "Geon", link: "https://www.geon.nl", imageUrl: "logo-geon.png"}
     - {name: "Satelligence", description: "Satelligence", link: "http://www.satelligence.com/", imageUrl: "logo-satelligence.png"}
     - {name: "Ordina", description: "Ordina", link: "https://www.ordina.com/", imageUrl: "logo-ordina.png"}
 -
   group: "Zilver"
   elements:
     - {name: "Geo Academie", description: "Geo Academie", link: "https://geo-academie.nl", imageUrl: "logo-geoacademie.png"}
+    - {name: "Geon", description: "Geon", link: "https://www.geon.nl", imageUrl: "logo-geon.png"}
     - {name: "GeoCat", description: "GeoCat", link: "https://www.geocat.net/", imageUrl: "logo-geocat.png"}
     - {name: "Webmapper", description: "Webmapper", link: "https://www.webmapper.net", imageUrl: "logo-webmapper.svg"}
