@@ -480,7 +480,7 @@ In theorie."
 -
   id: 503
   title: "Vector Tiling"
-  description: "Vector tile technologie is een nieuw alternatief voor de traditionele raster image tiles voor web maps. Zij maken web maps sneller te publiceren en flexibeler vorm te geven. Maar hoe werken ze en hoe kom je er aan?"
+  description: "Vector tile technologie is een nieuw alternatief voor de traditionele raster image tiles voor web maps. Zij maken web maps sneller te publiceren en flexibeler vorm te geven. Maar hoe werken ze en hoe kom je er aan? Niene zal veel voorbeelden laten zien van wat er allemaal mogelijk is met vector tiles, geeft uitleg hoe je aan vector tiles kan komen, waaronder het gebruik van de PDOK brt-bgt vector tiles en geeft handige tips over tools en technieken die je kan gebruiken."
   subtype: presentation
   speakers: [202]
 -
