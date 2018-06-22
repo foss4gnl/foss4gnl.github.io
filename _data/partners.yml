@@ -1,7 +1,7 @@
 - 
   group: "Goud"
   elements: 
-    - {name: "Geodan", description: "Geodan", link: "https://www.geodan.nl/", imageUrl: "logo-geodan.png"}
+    - {name: "Geodan", description: "Geodan", link: "https://www.geodan.nl", imageUrl: "logo-geodan.png"}
     - {name: "Ordina", description: "Ordina", link: "https://www.ordina.com/", imageUrl: "logo-ordina.png"}
     - {name: "Merkator", description: "Merkator", link: "https://www.merkator.com", imageUrl: "logo-merkator.png"}
     - {name: "Satelligence", description: "Satelligence", link: "http://www.satelligence.com/", imageUrl: "logo-satelligence.png"}
