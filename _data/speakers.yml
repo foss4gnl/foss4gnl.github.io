@@ -522,3 +522,15 @@ kant profileert hij zich als docent: bij de Geo-Academie en diverse hogsecholen.
 Peter beweegt zich ruim 20 jaar in de geo-wereld, eerst als student op de hogeschool Utrecht en Universiteit Utrecht. Daarna als docent GIS en onderwijs coördinator bij Nieuwland Geo-informatie. Zijn lesstijl wordt door anderen omschreven als bevlogen en enthousiast en hij hoopt dit tijdens deze workshop ook weer als positieve bijdrage te kunnen leveren."
   thumbnailUrl: PeterKaspers.jpg 
   rockstar: true
+-
+  id: 330
+  name: "Ynte"
+  surname: "de Wolff"
+  company: "Geoloep"
+  title: "Zelfstandig ondernemer"
+  bio: ""
+  thumbnailUrl: YnteDeWolf.jpg
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/ynte-de-wolff-7785606b/"}
+    - {name: "site", link: "http://geoloep.nl"}
+  rockstar: true
