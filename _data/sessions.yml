@@ -574,3 +574,8 @@ In theorie."
   subtype: 
   speakers: []
 -
+  id: 609
+  title: "Krite: Een modulaire toolkit voor maatwerk geoviewers"
+  description: "Met Krite zet je snel maatwerk geo-webapplicaties op. In deze toolkit vind je generieke componenten op het gebied van o.a. databronnen, kaart interactie, laagbeheer en interfaces. Krite biedt meer flexibiliteit dan all-in-one oplossingen, maar zorgt er anderzijds voor dat je niet voor elk project het wiel opnieuw uit hoeft te vinden. In deze presentatie stel ik dit op Typescript, Vue en Leaflet gebaseerde systeem graag aan de foss gemeenschap voor. Ik zal aanvullend wat technische demo's geven, en een aantal eindproducten tonen."
+  subtype: presentation
+  speakers: [330]
