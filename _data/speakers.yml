@@ -300,7 +300,7 @@ Momenteel werkt hij voor GeoCat B.V, makers van Geonetwork, waar hij docker-syst
     - {name: "linkedin", link: "https://www.linkedin.com/in/jorgedejesus/"}
     - {name: "twitter", link: "https://twitter.com/JMendesDeJesus"}
     - {name: "site", link: "www.geocat.net}
-    - {name: "github", link: "https://github.com/jorgejesus"}
+    - {name: "site", link: "https://github.com/jorgejesus"}
   rockstar: true
 -
   id: 300
