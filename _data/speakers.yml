@@ -291,10 +291,16 @@ kant profileert hij zich als docent: bij de Geo-Academie en diverse hogsecholen.
   id: 211
   name: "Jorge Samuel Mende"
   surname: "de Jesus"
-  company: "GeoCat"
-  title: ""
-  bio: ""
-  thumbnailUrl: placeholder.png 
+  company: "Geocat B.V."
+  title: "Software dev / Geospatial geek"
+  bio: "Jorge is een gedreven geopython-nerd. Hij heeft een doctoraat in de geografie van Ben-Gurion University of the Negev, Israël. Gedurende zijn verblijf in Israël bestudeerde hij natuurlijk voorkomende ruimtelijke variabiliteit (geostastics) in tarwevelden met behulp van GRASS / GIS en andere open source-tools. Na zijn doctoraat was hij werkzaam bij het Joint Research Center in Italië en ontwikkelde Ispra webservices in python (PyWPS) en startte hij het digitale observatorium voor beschermde gebieden (DOPA). Vervolgens was hij werkzaam bij de Remote Sensing-groep van Plymouth Marine Laboratory en daarna bij ISRIC - World Soil Reference in Wageningen waar hij werkte als een wetenschappelijke programmeur met focus op python-taal (10 jaar ervaring), OGC-service/REST en cloud-berekening.
+Momenteel werkt hij voor GeoCat B.V, makers van Geonetwork, waar hij docker-systemen en cloud-systemen beheert en ontwikkeld wetenschappelijke programma’s voor diverse private bedrijven en overheidsinstanties. Tevens doet hij outsourcing werk voor het bedrijf Nieuwland (geoinformatica) in het DAMO-project."
+  thumbnailUrl: JorgeDeJesus.jpg 
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/jorgedejesus/"}
+    - {name: "twitter", link: "https://twitter.com/JMendesDeJesus"}
+    - {name: "site", link: "www.geocat.net}
+    - {name: "github", link: "https://github.com/jorgejesus"}
   rockstar: true
 -
   id: 300
