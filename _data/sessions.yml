@@ -326,6 +326,12 @@ Hiermee kun je onder andere ruimtelijke of niet-ruimtelijke SQL queries schrijve
 uitvoeren, en de resultaten in QGIS gebruiken. Niet alleen via een database, maar ook gewoon
 met ingeladen shapefiles, GML, gpx, csv’tjes of een combi daarvan. Makkelijk, flexibel en
 efficiënt!<br><br>
+
+Voorwaarden om mee te doen:<br>
+
+• Eigen laptop met QGIS (liever versie 3, 2.18 gaat waarschijnlijk ook wel goed)<br>
+• Een klein beetje basiskennis van selecties en analysetools (b.v. buffer) in QGIS is ook wel fijn.<br><br>
+
 Na afloop kan je:<br>
 • in QGIS geladen kaartlagen oproepen in de DB Manager<br>
 • SQL bevragingen op een attribuuttabel doen<br>
