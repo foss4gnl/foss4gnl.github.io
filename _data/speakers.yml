@@ -540,3 +540,12 @@ Peter beweegt zich ruim 20 jaar in de geo-wereld, eerst als student op de hogesc
     - {name: "linkedin", link: "https://www.linkedin.com/in/ynte-de-wolff-7785606b/"}
     - {name: "site", link: "http://geoloep.nl"}
   rockstar: true
+-
+  id: 331
+  name: "Gerwin"
+  surname: "Hulstein"
+  company: "Kadaster"
+  title: "Software Engineer"
+  bio: "Gerwin is nieuw in de geowereld. Wel heeft hij ruim vijftien jaar ervaring in de ICT. Als software engineer en als hosting architect heeft hij aan verscheidene projecten gewerkt. Dit waren projecten in verschillende domeinen, zoals de telecom, het notariaat en de politie. Sinds begin dit jaar is hij werkzaam bij het Kadaster. Gerwin heeft een aantal jaar ervaring met Docker, maar bij het Kadaster heeft hij de kans gekregen om te werken met Kubernetes. Daarnaast heeft hij recent gewerkt aan de nieuwe versie van de Locatieserver. Daarbij heeft hij zich met name beziggehouden met het klaarmaken van de architectuur van de Locatieserver voor de gang naar de cloud."
+  thumbnailUrl: placeholder.png
+  rockstar: true
