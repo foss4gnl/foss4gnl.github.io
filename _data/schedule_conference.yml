@@ -70,7 +70,7 @@
     - {
     	startTime: "",
     	endTime: "",
-    	sessionIds: [307, 407, 507, 600]
+    	sessionIds: [307, 407, 0, 600]
     }
     - {
     	startTime: "",
