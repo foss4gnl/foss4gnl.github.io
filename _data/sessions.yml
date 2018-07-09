@@ -526,7 +526,7 @@ In theorie."
   subtype: presentation
   speakers: [321]
 -
-  id: 601
+  id: 610
   title: "Zoet-zoutverdeling Zeeuwse ondergrond"
   description: "Om een goed beeld te krijgen van zoet en zout water in de Zeeuwse ondergrond zijn in 2014 en 2015 met een geavanceerde remote sensing methode vanuit een helikopter metingen tot wel 70 meter diepte verricht. Deze metingen geven belangrijke informatie voor waterbeheer en bijvoorbeeld ook voor boeren en kustbeheerders of voor natuurontwikkeling. De metingen zijn opgewerkt tot een gedetailleerd 3D model van het zoutgehalte in het zeeuwse grondwater. De resultaten zijn als open data beschikbaar en d.m.v. open standaarden in een opensource webviewer laagdrempelig inzichtelijk gemaakt voor een ieder. https://kaarten.zeeland.nl/map/freshem Presentatie door: André van de Straat, Beleidsmedewerker water. Provincie Zeeland Marco Duiker, MD-kwadraat ② Wim Kosten, Technisch applicatiebeheer Digitale Media, Provincie Zeeland"
   subtype: presentation
@@ -586,7 +586,7 @@ In theorie."
   subtype: presentation
   speakers: [330]
 -
-  id: 610
+  id: 601
   title: "geoDSS een 'geospatial rule engine' voor het makkelijk geautomatiseerd"
   description: "In veel bedrijfsprocessen zijn relatief eenvoudige vragen als 'ligt adres x binnen 100 meter van gebied y' gekoppeld aan een actie als 'stuur een e-mail om z op de hoogte te stellen'. Denk bijvoorbeeld aan vergunningverlening. geoDSS is speciaal voor dit soort processen ontwikkeld. Het is een instrument dat door een GIS-medewerker (geen ontwikkelaar!) kan worden ingericht en onderhouden en vervolgens gebruikt door een werkvoorbereider of inhoudelijk specialist. Het resultaat is meestal een webpagina waarop de gebruiker iets invoert (adres bijvoorbeeld), waarna een rapportage met de toetsresultaten als webpagina weer terugkomt. geoDSS kan daarbij worden gekoppeld aan databronnen als Postgis en allerlei soorten services waaronder WFS en WMS. In de presentatie wordt het gebruik en de vele mogelijkheden van geoDDS toegelicht. Ook wordt ingegaan op de manier waarop geoDSS makkelijk verder uitgebreid kan worden."
   subtype: presentation
