@@ -590,4 +590,4 @@ In theorie."
   title: "geoDSS een 'geospatial rule engine' voor het makkelijk geautomatiseerd"
   description: "In veel bedrijfsprocessen zijn relatief eenvoudige vragen als 'ligt adres x binnen 100 meter van gebied y' gekoppeld aan een actie als 'stuur een e-mail om z op de hoogte te stellen'. Denk bijvoorbeeld aan vergunningverlening. geoDSS is speciaal voor dit soort processen ontwikkeld. Het is een instrument dat door een GIS-medewerker (geen ontwikkelaar!) kan worden ingericht en onderhouden en vervolgens gebruikt door een werkvoorbereider of inhoudelijk specialist. Het resultaat is meestal een webpagina waarop de gebruiker iets invoert (adres bijvoorbeeld), waarna een rapportage met de toetsresultaten als webpagina weer terugkomt. geoDSS kan daarbij worden gekoppeld aan databronnen als Postgis en allerlei soorten services waaronder WFS en WMS. In de presentatie wordt het gebruik en de vele mogelijkheden van geoDDS toegelicht. Ook wordt ingegaan op de manier waarop geoDSS makkelijk verder uitgebreid kan worden."
   subtype: presentation
-  speakers: []
+  speakers: [205]
