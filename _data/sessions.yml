@@ -418,8 +418,8 @@ Beginnend met een korte samenvatting van de geschiedenis van het MapWindow proje
   speakers: [8]
 -
   id: 401
-  title: "Hisgis & OSM"
-  description: ""
+  title: "HisGIS: van 2D tot 4D"
+  description: "HisGIS bouwt aan een kaart van Nederland in 1832, gebaseerd op het historisch kadaster dat toen in werking trad. Met open-source web-tools zijn we in staat om het materiaal te verwerken, en uiteindelijk ook te visualiseren. Dankzij de volledige OpenStreetMap-software-stack hebben we ons eigen platform opgebouwd waarbij vrijwilligers ook zelf kunnen bijdragen. Recente ontwikkelingen laten het toe om de overstap te maken naar 3D en 4D web-platforms."
   subtype: presentation
   speakers: [309]
 -
@@ -474,7 +474,9 @@ In theorie."
 -
   id: 501
   title: "Portable Antiquities of the Netherlands"
-  description: ""
+  description: "De site is het eindresultaat van het project Portable Antiquities of the Netherlands (PAN), waarvoor Nico Roymans en Stijn Heeren van de Vrije Universiteit Amsterdam in 2016 een grote investeringssubsidie van NWO ontvingen. Doel van het project is de vondsten van enkele duizenden hobby-archeologen met een metaaldetector in Nederland in kaart te brengen. Deze collecties vertegenwoordigen een grote wetenschappelijke waarde maar zijn nog niet systematisch geïnventariseerd.
+
+De Geodienst van de RUG is verantwoordelijk voor de technische realisatie van de website, die op woensdag 10 mei gepresenteerd wordt bij de Rijksdienst voor het Cultureel Erfgoed. Via de website wordt informatie over private vondsten en hun (algemene) vindplaatsen gedeeld en ingezet voor de wetenschap, voor erfgoedonderzoek en voor het brede publiek. Via verschillende filters, of met behulp van een overzichtskaart, kan er door de database gezocht worden naar de ca. 750 vondsten die de website momenteel bevat. De exacte locatie van vondsten wordt niet getoond, om de zoekplekken te beschermen en om drukte en overlast te voorkomen. Voor de wetenschappers zijn nauwkeurige locaties straks wel beschikbaar."
   subtype: presentation
   speakers: [314]
 -
@@ -540,7 +542,7 @@ In theorie."
 -
   id: 603
   title: "Vastgoedanalyses met de BAG in PostGIS"
-  description: ""
+  description: "De BAG bevat interessante informatie over het Nederlandse vastgoed. Tijdens verschillende analyses zijn we curieuze situaties tegengekomen. In deze presentatie gaan we in op deze rariteiten en proberen we tot een verklaring c.q. oplossing te komen. Kort samengevat: we gaan lachen met de BAG."
   subtype: presentation
   speakers: [323, 324]
 -
