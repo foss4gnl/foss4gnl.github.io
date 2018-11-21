@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Hello World! This is FOSS4GNL"
-date:   2018-05-29 21:40:00
+title:  "Presentaties FOSS4G 2018"
+date:   2018-11-21 21:00:05
 isStaticPost: false
 ---
 
