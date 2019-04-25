@@ -49,14 +49,13 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "FOSS4GNL 2019"
-eventDate: "19-20 juni 2019 - Technische Universiteit Delft"
+eventDate: "20 juni 2019 - Technische Universiteit Delft"
 heroButtons:
   - {link: "https://github.com/osgeonl/osgeonl.github.io/tree/master/sitecontent/foss4gnl/2019", text: "Presentaties"}
 
 # About Block
 aboutTitle: "Over FOSS4GNL 2019"
 aboutBlock:
- - {title: "Workshops", image: "workshop.jpg", permalink: "/workshops/", text: "19 juni" }
  - {title: "Conferentie", image: "3dgeoinfo.png", permalink: "/conference/", text: "20 juni" }
 
 # Statistic Block
@@ -79,7 +78,7 @@ eventAddressLocality: "Delft"
 eventAddressLocalityRegion: "Zuid-Holland"
 eventPostalCode: "2628 BL"
 eventAddressCountry: "Nederland"
-eventStartTime: "2019-06-19T10:00"
+eventStartTime: "2019-06-20T10:00"
 eventDoorTime: "09:00"
 eventEndTime: "2019-06-20T18:00"
 eventPlaceCoordinates: "52.005694, 4.370651"
@@ -96,20 +95,8 @@ ticketsTitle: "Prijslijst"
 ticketsInfo: ""
 ticketsOffers:
  -
-  name: "Workshops 19 juni (per dagdeel)"
-  price: "?"
-  priceCurrency: "Euro"
-  ticketsNumber: "?"
-  buyButtonLink: "https://www.eventbrite.nl/"
-  buyButtonText: "Koop nu"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  soldOut: false
-  soldOutText: "Uitverkocht"
-  validFrom: "2019-04-23T00:00"
-  validThrough: "2019-06-19T00:00"
- -
-  name: "Conferentiedag 20 juli"
-  price: "?"
+  name: "Conferentiedag 20 juni"
+  price: "15"
   priceCurrency: "Euro"
   ticketsNumber: "?"
   buyButtonLink: "https://www.eventbrite.nl/"
@@ -120,8 +107,8 @@ ticketsOffers:
   validFrom: "2019-04-23T00:00"
   validThrough: "2019-06-20T00:00"
  -
-  name: "Golden ticket 20 juli"
-  price: "?"
+  name: "Golden ticket 20 juni"
+  price: "50"
   priceCurrency: "Euro"
   ticketsNumber: "?"
   buyButtonLink: "https://www.eventbrite.nl/"
