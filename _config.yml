@@ -29,7 +29,7 @@ organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "http://www.osgeo.nl/"
 
 # Head
-metaKeywords: "event, osgeo, conferentie, open source, geo, gis, almere, geographic, nederland"
+metaKeywords: "event, osgeo, conferentie, open source, geo, gis, delft, geographic, nederland"
 twitterAccount: "@osgeonl"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 
@@ -38,8 +38,8 @@ navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/blog/", text: "Nieuws"}
  - {permalink: "/conference/", text: "Programma"}
- - {permalink: "/workshops/", text: "Workshops"}
- - {permalink: "/photos/", text: "Foto's"}
+# - {permalink: "/workshops/", text: "Workshops"}
+# - {permalink: "/photos/", text: "Foto's"}
  - {permalink: "/speakers/", text: "Sprekers"}
 bottomNavigationLinks:
   - {link: "https://www.eventbrite.nl/", text: "Aanmelden"}
@@ -49,11 +49,11 @@ rightNavigationButtons:
   #- {link: "https://github.com/osgeonl/osgeonl.github.io/tree/master/sitecontent/foss4gnl/2019", text: "Presentaties"}
 
 # Hero Block
-heroImage: "hero.jpg"
+heroImage: "tudelf_bag3d_small.jpg"
 heroTitle: "FOSS4GNL 2019"
-eventDate: "20 juni 2019 - Technische Universiteit Delft"
+eventDate: "20 juni 2019 - Technische Universiteit Delft - Faculteit Bouwkunde"
 heroButtons:
-  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+  - {link: "https://", text: "Become a speaker"}
   - {link: "https://www.eventbrite.nl/", text: "Aanmelden"}
   #- {link: "https://github.com/osgeonl/osgeonl.github.io/tree/master/sitecontent/foss4gnl/2019", text: "Presentaties"}
 
@@ -63,19 +63,19 @@ aboutBlock:
  - {title: "Conferentie", image: "3dgeoinfo.png", permalink: "/conference/", text: "20 juni" }
 
 # Statistic Block
-statisticBlockImage: "statistic.jpg"
+statisticBlockImage: "delft_ahn3.jpg"
 statisticBlock:
- - {count: "?", specialCharacter: "", info: "deelnemers", detail: ""}
- - {count: "?", specialCharacter: "", info: "uren", detail: ""}
- - {count: "?", specialCharacter: "", info: "sprekers", detail: ""}
- - {count: "?", specialCharacter: "", info: "parallele tracks", detail: ""}
+ - {count: "1", specialCharacter: "", info: "deelnemers", detail: ""}
+ - {count: "1", specialCharacter: "", info: "uren", detail: ""}
+ - {count: "1", specialCharacter: "", info: "sprekers", detail: ""}
+ - {count: "4", specialCharacter: "", info: "parallele tracks", detail: ""}
 
 # Latest News Block
 latestNewsTitle: "Nieuws"
 
 # Location Block
 locationBlockTitle: "Locatie"
-eventLocationName: "Technische Universiteit Delft"
+eventLocationName: "Technische Universiteit Delft - Faculteit Bouwkunde"
 eventLocationLink: "https://3d.bk.tudelft.nl/about/#where"
 eventStreetAddress: "Julianalaan 134"
 eventAddressLocality: "Delft"

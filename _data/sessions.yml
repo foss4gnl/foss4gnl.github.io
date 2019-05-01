@@ -1,14 +1,46 @@
 -
   id: 800
+  title: "Registratie"
+  service: true
+-
+  id: 801
   title: "Keynote"
   subtype: presentation
   description: ""
   speakers: [2]
 -
-  id: 801
-  title: "Registratie"
+  id: 802
+  title: "Koffie"
   service: true
 -
-  id: 802
-  title: "Welkom"
+  id: 803
+  title: "Lunch"
   service: true
+-
+  id: 804
+  title: "Afsluiting"
+  service: true
+-
+  id: 100
+  title: "pres1"
+  description: ""
+  subtype: presentation
+  speakers: [1]
+-
+  id: 200
+  title: "pres2"
+  description: ""
+  subtype: presentation
+  speakers: [1]
+-
+  id: 300
+  title: "pres3"
+  description: ""
+  subtype: presentation
+  speakers: [1]
+-
+  id: 400
+  title: "pres4"
+  description: ""
+  subtype: presentation
+  speakers: [1]

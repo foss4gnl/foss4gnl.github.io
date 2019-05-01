@@ -2,14 +2,33 @@
   date: "2019-06-20"
   dateReadable: "20 Juni"
   tracks: 
-    - {title: "Software", color: "#90be4e"}
-    - {title: "Technisch", color: "#03a9f4"}
+    - {title: "Technisch", color: "#90be4e"}
+    - {title: "Gebruikers", color: "#03a9f4"}
     - {title: "Special", color: "#e91e63"}
-    - {title: "Analyse", color: "#ffff00"}
+    - {title: "Maptime", color: "#ffff00"}
   timeslots:
     - {
     	startTime: "9:15",
     	endTime: "9:45",
-    	sessionIds: [801]
+    	sessionIds: [800]
     }
-
+    - {
+      startTime: "9:45",
+      endTime: "11:00",
+      sessionIds: [801]
+    }
+    - {
+      startTime: "11:00",
+      endTime: "11:30",
+      sessionIds: [802]
+    }
+    - {
+      startTime: "11:30",
+      endTime: "12:45",
+      sessionIds: [100,200,300,400]
+    }
+    - {
+      startTime: "12:45",
+      endTime: "13:45",
+      sessionIds: [803]
+    }

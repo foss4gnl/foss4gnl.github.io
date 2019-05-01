@@ -9,5 +9,5 @@ Welkom bij de FOSS4GNL! Dit jaar hopen we je te begroeten aan de Technische Univ
 
 Meer informatie? Kijk gerust rond op de site, binnenkort volgt er meer info over het programma, met tips van de organisatie, praktische informatie en meer interessante nieuwtjes. 
 
-Tot 19 en 20 juni in Delft! Wij hopen jullie daar te zien
+Tot 20 juni in Delft! Wij hopen jullie daar te zien.
 De organisatie van de FOSS4GNL
