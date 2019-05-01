@@ -2717,115 +2717,6 @@ nav li a.current,nav li a:hover{
     height:140px;
     margin:0 auto
 }
-.pricing-col{
-    overflow:hidden;
-    margin-bottom:26px;
-    padding:0;
-    font-size:16px;
-    font-weight:100;
-    text-align:center;
-    border:1px #ddd solid;
-    border-right:none
-}
-.pricing-col:last-child{
-    border-right:1px #ddd solid;
-    border-left:none
-}
-.pricing-col.pricing-col-featured{
-    top:-27px
-}
-.pricing-col.pricing-col-featured:not(:first-child){
-    margin-left:0;
-    border:solid 1px #4CB05B
-}
-.pricing-col.pricing-col-featured .pricing-ribbon{
-    background:#4CB05B
-}
-.pricing-col.pricing-col-featured .title{
-    margin-bottom:33px
-}
-.pricing-col.pricing-col-featured .price{
-    margin-bottom:30px;
-    color:#4CB05B
-}
-.pricing-col.pricing-col-featured .pricing-content{
-    padding-top:2px
-}
-.pricing-col.pricing-col-featured .button{
-    margin-top:45px;
-    background:#4CB05B
-}
-.pricing-col.pricing-col-featured .button:hover{
-    background:#3266d5
-}
-.pricing-col.pricing-col-featured .button.disabled:hover{
-    background:#4CB05B
-}
-.pricing-col .title{
-    font-size:32px;
-    font-weight:100;
-    margin:0;
-    padding:20px 0;
-    background:#f2f2f2
-}
-.pricing-col .price{
-    margin:30px 0 10px;
-    padding:26px 0;
-    font-size:65px;
-    font-weight:100;
-    color:#000
-}
-.pricing-col .currency{
-    font-size:32px
-}
-.pricing-col .button{
-    font-size:32px;
-    display:block;
-    margin-top:30px;
-    padding:7px 25px 10px;
-    color:#fff;
-    background:#333;
-    font-weight:100;
-    text-decoration:none
-}
-.pricing-col .button:hover{
-    background:#4d4d4d
-}
-.pricing-col .button.disabled:hover{
-    background:#333
-}
-.pricing-col .button.fallback{
-    font-size:18px;
-    line-height:1.4
-}
-.pricing-col .pricing-ribbon{
-    position:absolute;
-    top:10px;
-    right:-45px;
-    padding:5px 50px;
-    -webkit-transform:rotate(45deg);
-    -ms-transform:rotate(45deg);
-    transform:rotate(45deg);
-    color:#fff;
-    background:#333
-}
-.pricing-content{
-    font-weight:300
-}
-.pricing-content ul{
-    width:80%;
-    margin:0 auto;
-    margin-top:16px;
-    padding:0
-}
-.pricing-content li{
-    padding:16px 0;
-    list-style:none;
-    border-bottom:solid 1px #ddd
-}
-.pricing-content li:last-child{
-    border-bottom:none
-}
 .tickets-2 .ticket-text,.tickets-2 .price,.tickets-2 .title{
     margin:0;
     font-size:32px;
@@ -2871,112 +2762,6 @@ nav li a.current,nav li a:hover{
 .tickets-row:last-child{
     border:none
 }
-.location-map{
-    font-weight:100;
-    padding:172px 0
-}
-.location-map h3{
-    margin-bottom:0
-}
-.location-description{
-    min-width:400px;
-    padding:20px 50px;
-    background:#fff
-}
-.location-description .icon-direction{
-    width:32px;
-    height:32px;
-    margin:1em 0
-}
-.location-description ul{
-    margin-top:26px;
-    padding:0;
-    list-style:none
-}
-.location-description li{
-    font-size:21px;
-    margin-bottom:9px
-}
-.location-description time{
-    display:inline-block
-}
-.canvas-map{
-    position:absolute;
-    top:0;
-    right:0;
-    bottom:0;
-    left:0;
-    width:100%;
-    height:700px
-}
-.venue-col{
-    height:100%;
-    padding:0;
-    padding-right:5px
-}
-.venue-col:last-child{
-    padding:0
-}
-.venue-elem-wrapper{
-    padding:0;
-    padding-bottom:5px
-}
-.venue-elem{
-    overflow:hidden;
-    text-align:left;
-    -webkit-transition:all 0.3s;
-    transition:all 0.3s
-}
-.venue-big-elem{
-    height:610px
-}
-.venue-small-elem{
-    height:200px
-}
-.venue-text{
-    padding:30px 20px;
-    color:#fff;
-    background:#4CB05B
-}
-.venue-text h5{
-    margin-top:0
-}
-.venue-text p{
-    font-size:17px
-}
-.twitter-feed h3{
-    margin-bottom:10px
-}
-.twitter-feed .icon{
-    width:64px;
-    height:64px;
-    fill:#fff
-}
-.tweets{
-    max-width:850px;
-    margin:0 auto
-}
-.tweet{
-    height:130px;
-    -webkit-transition:all 0.5s;
-    transition:all 0.5s
-}
-.tweet.hidden-tweet{
-    opacity:0;
-    -webkit-transform:translateY(180px);
-    -ms-transform:translateY(180px);
-    transform:translateY(180px)
-}
-.tweet p{
-    font-weight:100
-}
-.tweet-text{
-    font-size:26px;
-    line-height:1.3
-}
-.tweet-meta{
-    font-size:20px
-}
 .partners h5{
     margin-top:30px
 }
@@ -2999,30 +2784,11 @@ nav li a.current,nav li a:hover{
     -webkit-filter:grayscale(0);
     filter:grayscale(0)
 }
-.subscribe .email,.subscribe .button{
-    width:100%;
-    height:53px;
-    margin-bottom:16px;
-    -webkit-transition:all 0.3s;
-    transition:all 0.3s
-}
-.subscribe .email input,.subscribe .button input{
-    width:100%;
-    height:100%;
-    outline:none;
-    font-size:16px
-}
-.subscribe .button input{
-    text-transform:uppercase
-}
 .mc-field-group{
     padding-right:3px
 }
 .mc-submit-group{
     padding-left:3px
-}
-.subscribe-info{
-    font-weight:100
 }
 .footer{
     padding:40px 52px 13px;
@@ -3118,178 +2884,6 @@ nav li a.current,nav li a:hover{
 }
 .pagination .page-number{
     margin:0 7px
-}
-.find-way{
-    min-height:600px
-}
-.find-way h3{
-    position:absolute;
-    top:-26px;
-    left:52px;
-    color:#fff
-}
-.map-card{
-    font-size:16px;
-    font-weight:400;
-    top:450px;
-    left:50px;
-    overflow:hidden;
-    height:56px;
-    padding:18px 16px;
-    -webkit-transition:all 0.25s cubic-bezier(0.19, 1, 0.22, 1);
-    transition:all 0.25s cubic-bezier(0.19, 1, 0.22, 1);
-    color:#717171;
-    border-radius:2px;
-    background:#fff;
-    box-shadow:1px 1px 2px rgba(0,0,0,0.2)
-}
-.location-active .map-card{
-    -webkit-transform:translateY(-135px);
-    -ms-transform:translateY(-135px);
-    transform:translateY(-135px)
-}
-.map-card .location-input-icon,.map-card .icon-geolocation,.map-card .icon-cross{
-    float:right;
-    margin-right:3px;
-    -webkit-transform:translateY(3px);
-    -ms-transform:translateY(3px);
-    transform:translateY(3px);
-    fill:#717171
-}
-.location-active .map-card .icon-geolocation{
-    -webkit-transform:translateY(-70px);
-    -ms-transform:translateY(-70px);
-    transform:translateY(-70px)
-}
-.map-card .icon-cross{
-    width:19px;
-    height:19px
-}
-.map-card .view-on-map{
-    font-size:14px;
-    margin-bottom:5px
-}
-.location-input{
-    width:85%;
-    margin-top:-3px;
-    padding:1px 4px;
-    white-space:nowrap;
-    text-overflow:ellipsis;
-    border:none;
-    outline:none
-}
-.location-active .location-input{
-    -webkit-transform:translateY(-70px);
-    -ms-transform:translateY(-70px);
-    transform:translateY(-70px)
-}
-.location-result{
-    -webkit-transition:all 0.25s ease-in-out;
-    transition:all 0.25s ease-in-out;
-    -webkit-transform:translateY(70px);
-    -ms-transform:translateY(70px);
-    transform:translateY(70px)
-}
-.location-active .location-result{
-    -webkit-transform:translateY(-24px);
-    -ms-transform:translateY(-24px);
-    transform:translateY(-24px)
-}
-.location-result .result-name{
-    color:#333
-}
-.location-details{
-    clear:both;
-    height:100%;
-    padding:8px 18px 15px;
-    -webkit-transition:all 0.25s ease-in-out;
-    transition:all 0.25s ease-in-out;
-    -webkit-transform:translateY(140px);
-    -ms-transform:translateY(140px);
-    transform:translateY(140px)
-}
-.location-active .location-details{
-    -webkit-transform:translateY(-125px);
-    -ms-transform:translateY(-125px);
-    transform:translateY(-125px)
-}
-.location-details ul{
-    margin:0;
-    padding:0;
-    list-style:none
-}
-.location-details li{
-    font-weight:400;
-    line-height:50px;
-    text-transform:uppercase;
-    color:#333;
-    border-bottom:1px solid #e7e7e7
-}
-.location-details li:last-child{
-    border-bottom:none
-}
-.location-details .icon{
-    position:relative;
-    top:3px;
-    margin-right:7px;
-    fill:#333
-}
-.location-details select{
-    margin-left:-5px;
-    color:#333;
-    border:none;
-    outline:none
-}
-.detailed-result{
-    font-size:17px;
-    text-transform:none;
-    color:#717171
-}
-.direction-details{
-    display:inline-block;
-    padding:0;
-    color:#757575
-}
-.direction-details .card{
-    -webkit-transform:translateY(-125px);
-    -ms-transform:translateY(-125px);
-    transform:translateY(-125px)
-}
-.direction-details .card ul{
-    font-size:17px;
-    font-weight:300;
-    margin:0;
-    padding:0;
-    list-style:none
-}
-.direction-details .questions{
-    -webkit-transform:translateY(-100px);
-    -ms-transform:translateY(-100px);
-    transform:translateY(-100px)
-}
-.direction-details h4,.direction-details h5{
-    font-size:31px;
-    font-weight:300;
-    color:initial
-}
-.direction-details h5{
-    font-size:20px
-}
-.direction-details p{
-    font-size:17px
-}
-.list-with-description li{
-    margin-bottom:20px
-}
-.list-with-description a{
-    display:block
-}
-.team h3{
-    margin-bottom:26px
-}
-.team h4{
-    margin:50px 0 20px;
-    text-align:center
 }
 .zoe-effect{
     margin-bottom:26px;
@@ -3838,92 +3432,6 @@ nav li a.current,nav li a:hover{
 }
 .service-description{
     margin-top:15px
-}
-.hackathon-row{
-    margin-bottom:90px
-}
-.hackathon-row.float-right .hackathon-img-wrapper{
-    float:right
-}
-.hackathon-row.float-right .hackathon-details{
-    text-align:right;
-    margin-left:0;
-    margin-right:300px
-}
-.hackathon-img-wrapper{
-    float:left
-}
-.hackathon-img-wrapper img{
-    max-width:250px;
-    margin:0 auto
-}
-.hackathon-details{
-    text-align:left;
-    margin-left:300px
-}
-.hackathon-details p{
-    font-size:16px
-}
-.judge{
-    margin-bottom:45px
-}
-.judge .name{
-    margin:8px 0 4px;
-    font-size:25px
-}
-.judge .company{
-    margin-top:6px;
-    display:block;
-    font-size:18px;
-    line-height:1.1
-}
-.judge-img{
-    width:140px;
-    height:140px;
-    margin:0 auto;
-    border:3px solid #fff;
-    box-shadow:0 3px 0 rgba(0,0,0,0.15),0 3px 4px rgba(0,0,0,0.2)
-}
-.prizes h3{
-    margin-bottom:20px
-}
-.prize{
-    margin-top:50px
-}
-.prize:nth-child(3){
-    margin-top:0
-}
-.prize-img-wrapper img{
-    max-width:250px;
-    margin:0 auto
-}
-.hackathon-location{
-    padding:20px 50px;
-    height:450px
-}
-.hackathon-location .canvas-map{
-    height:480px
-}
-.hackathon-location .location-description{
-    font-size:15px;
-    padding:18px 16px 22px;
-    overflow:hidden;
-    box-shadow:1px 1px 2px rgba(0,0,0,0.2)
-}
-.hackathon-location .location-name{
-    margin-top:0;
-    font-size:18px;
-    font-weight:500
-}
-.hackathon-location .location-address{
-    margin:0
-}
-.hackathon-location .hackathon-time time{
-    color:#4CB05B
-}
-.hackathon-location .view-on-map{
-    margin-top:8px;
-    display:block
 }
  @media print{
     *,*:before,*:after{
@@ -4788,25 +4296,6 @@ nav li a.current,nav li a:hover{
         width:120px;
         height:120px
     }
-    .pricing-col{
-        width:100% !important;
-        border:1px #ddd solid
-    }
-    .pricing-col:last-child{
-        border:1px #ddd solid
-    }
-    .pricing-col.pricing-col-featured{
-        top:0
-    }
-    .pricing-col.pricing-col-featured .title{
-        margin:0
-    }
-    .pricing-col.pricing-col-featured .pricing-content{
-        padding:0
-    }
-    .pricing-col.pricing-col-featured .button{
-        margin:0
-    }
     .tickets-2 .price{
         font-size:28px;
         margin-top:15px
@@ -4831,40 +4320,6 @@ nav li a.current,nav li a:hover{
         width:100%;
         font-size:20px
     }
-    .venue-col{
-        padding:0
-    }
-    .venue-small-col .venue-elem-wrapper:nth-child(odd){
-        padding-right:2.5px
-    }
-    .venue-small-col .venue-elem-wrapper:nth-child(even){
-        padding-left:2.5px
-    }
-    .venue-big-elem{
-        height:340px
-    }
-    .venue-small-elem{
-        height:200px
-    }
-    .venue-text{
-        padding:20px 15px
-    }
-    .venue-text h5{
-        font-size:21px
-    }
-    .venue-text p{
-        font-size:14px;
-        line-height:16px
-    }
-    .tweet{
-        height:180px
-    }
-    .tweet-text{
-        font-size:24px
-    }
-    .tweet-meta{
-        font-size:18px
-    }
     .partners .list-inline li{
         width:40%;
         max-width:160px
@@ -4880,41 +4335,6 @@ nav li a.current,nav li a:hover{
     }
     .post{
         margin-bottom:26px
-    }
-    .find-way{
-        min-height:500px;
-        padding:0 10px
-    }
-    .find-way h3{
-        top:4px;
-        left:0
-    }
-    .find-way.location-active .content-wrapper{
-        z-index:initial
-    }
-    .map-card{
-        left:0;
-        -webkit-transform:translateY(-20px);
-        -ms-transform:translateY(-20px);
-        transform:translateY(-20px)
-    }
-    .location-active .map-card{
-        -webkit-transform:translateY(-165px);
-        -ms-transform:translateY(-165px);
-        transform:translateY(-165px)
-    }
-    .location-details{
-        -webkit-transform:translateY(0);
-        -ms-transform:translateY(0);
-        transform:translateY(0)
-    }
-    .location-active .location-details{
-        -webkit-transform:translateY(-160px);
-        -ms-transform:translateY(-160px);
-        transform:translateY(-160px)
-    }
-    .direction-details .image-section{
-        min-height:350px
     }
     .zoe-effect:hover figure .overlay{
         background:transparent
@@ -5044,36 +4464,6 @@ nav li a.current,nav li a:hover{
         -ms-transform:translateY(0);
         transform:translateY(0)
     }
-    .hackathon-row{
-        margin-bottom:50px
-    }
-    .hackathon-row.float-right .hackathon-details{
-        text-align:left;
-        margin-right:0
-    }
-    .hackathon-img-wrapper{
-        float:right
-    }
-    .hackathon-img-wrapper img{
-        max-width:150px
-    }
-    .hackathon-details{
-        margin-left:0
-    }
-    .judge .name{
-        font-size:20px
-    }
-    .judge .company{
-        margin-top:0;
-        font-size:16px
-    }
-    .judge-img{
-        width:120px;
-        height:120px
-    }
-    .prize-img-wrapper img{
-        max-width:110px
-    }
 }
 @media (min-width: 768px) and (max-width: 991px){
     .visible-sm{
@@ -5105,24 +4495,6 @@ nav li a.current,nav li a:hover{
     }
     .statistic .stat{
         font-size:80px
-    }
-    .venue-big-elem{
-        height:580px
-    }
-    .venue-small-elem{
-        height:190px
-    }
-    .venue-text h5{
-        font-size:26px
-    }
-    .venue-text p{
-        font-size:16px;
-        line-height:19px
-    }
-    .direction-details .questions{
-        -webkit-transform:translateY(-125px);
-        -ms-transform:translateY(-125px);
-        transform:translateY(-125px)
     }
     .lily-effect:hover figcaption{
         bottom:.5em;

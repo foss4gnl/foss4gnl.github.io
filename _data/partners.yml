@@ -1,14 +1,7 @@
 - 
   group: "Goud"
   elements: 
-    - {name: "Geodan", description: "Geodan", link: "https://www.geodan.nl", imageUrl: "logo-geodan.png"}
-    - {name: "Ordina", description: "Ordina", link: "https://www.ordina.com/", imageUrl: "logo-ordina.png"}
-    - {name: "Merkator", description: "Merkator", link: "https://www.merkator.com", imageUrl: "logo-merkator.png"}
-    - {name: "Satelligence", description: "Satelligence", link: "http://www.satelligence.com/", imageUrl: "logo-satelligence.png"}
+    - {name: "Technische Universiteit Delft", description: "3D geoinformatie, TU Delft", link: "https://3d.bk.tudelft.nl", imageUrl: "logo-tud-3dgeoinfo.png"}
 -
   group: "Zilver"
   elements:
-    - {name: "GeoCat", description: "GeoCat", link: "https://www.geocat.net/", imageUrl: "logo-geocat.png"}
-    - {name: "Geo Academie", description: "Geo Academie", link: "https://geo-academie.nl", imageUrl: "logo-geoacademie.png"}
-    - {name: "Geon", description: "Geon", link: "https://www.geon.nl", imageUrl: "logo-geon.png"}
-    - {name: "Webmapper", description: "Webmapper", link: "https://www.webmapper.net", imageUrl: "logo-webmapper.svg"}

@@ -1,84 +1,34 @@
 - 
-  date: "2018-07-11"
-  dateReadable: "11 juli"
+  date: "2019-06-20"
+  dateReadable: "20 Juni"
   tracks: 
-    - {title: "Software", color: "#90be4e"}
-    - {title: "Technisch", color: "#03a9f4"}
+    - {title: "Technisch", color: "#90be4e"}
+    - {title: "Gebruikers", color: "#03a9f4"}
     - {title: "Special", color: "#e91e63"}
-    - {title: "Analyse", color: "#ffff00"}
+    - {title: "Maptime", color: "#ffff00"}
   timeslots:
     - {
     	startTime: "9:15",
     	endTime: "9:45",
-    	sessionIds: [801]
+    	sessionIds: [800]
     }
     - {
-    	startTime: "9:45",
-    	endTime: "11:00",
-    	sessionIds: [800]
+      startTime: "9:45",
+      endTime: "11:00",
+      sessionIds: [801]
     }
     - {
       startTime: "11:00",
       endTime: "11:30",
+      sessionIds: [802]
+    }
+    - {
+      startTime: "11:30",
+      endTime: "12:45",
+      sessionIds: [100,200,300,400]
+    }
+    - {
+      startTime: "12:45",
+      endTime: "13:45",
       sessionIds: [803]
-    }
-    - {
-    	startTime: "11:30",
-    	endTime: "12:45",
-    	sessionIds: [300, 400, 500, 607]
-    }
-    - {
-      startTime: "",
-    	endTime: "",
-    	sessionIds: [301, 401, 501, 610]
-    }
-    - {
-      startTime: "",
-    	endTime: "",
-    	sessionIds: [302, 402, 502, 602]
-    }
-    - {
-    	startTime: "12:45",
-    	endTime: "13:45",
-    	sessionIds: [804]
-    }
-    - {
-    	startTime: "13:45",
-    	endTime: "15:00",
-    	sessionIds: [303, 403, 503, 603]
-    }
-    - {
-    	startTime: "",
-    	endTime: "",
-    	sessionIds: [304, 408, 504, 604]
-    }
-    - {
-    	startTime: "",
-    	endTime: "",
-    	sessionIds: [305, 405, 505, 605]
-    }
-    - {
-    	startTime: "15:00",
-    	endTime: "15:15",
-    	sessionIds: [803]
-    }
-    - {
-    	startTime: "15:15",
-    	endTime: "16:30",
-    	sessionIds: [306, 406, 506, 606]
-    }
-    - {
-    	startTime: "",
-    	endTime: "",
-    	sessionIds: [307, 407, 0, 600]
-    }
-    - {
-    	startTime: "",
-    	endTime: "",
-    	sessionIds: [601, 609, 508, 608]
-    }
-    - {
-    	startTime: "16:30",
-    	endTime: "18:00",
-    	sessionIds: [805]
     }
