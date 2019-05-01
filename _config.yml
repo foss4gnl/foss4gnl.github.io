@@ -53,7 +53,7 @@ heroImage: "tudelf_bag3d_small.jpg"
 heroTitle: "FOSS4GNL 2019"
 eventDate: "20 juni 2019 - Technische Universiteit Delft - Faculteit Bouwkunde"
 heroButtons:
-  - {link: "https://", text: "Become a speaker"}
+  - {link: "/becomeaspeaker/", text: "Become a speaker"}
   - {link: "https://www.eventbrite.nl/", text: "Aanmelden"}
   #- {link: "https://github.com/osgeonl/osgeonl.github.io/tree/master/sitecontent/foss4gnl/2019", text: "Presentaties"}
 
