@@ -6,7 +6,7 @@ safe: false
 # Build Settings
 markdown: kramdown
 permalink: pretty
-exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
+exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME', 'vendor/bundle']
 
 
 # Site Settings
@@ -42,16 +42,20 @@ navigationLinks:
  - {permalink: "/photos/", text: "Foto's"}
  - {permalink: "/speakers/", text: "Sprekers"}
 bottomNavigationLinks:
-  - {link: "https://github.com/osgeonl/osgeonl.github.io/tree/master/sitecontent/foss4gnl/2019", text: "Presentaties"}
+  - {link: "https://www.eventbrite.nl/", text: "Aanmelden"}
+  #- {link: "https://github.com/osgeonl/osgeonl.github.io/tree/master/sitecontent/foss4gnl/2019", text: "Presentaties"}
 rightNavigationButtons:
-  - {link: "https://github.com/osgeonl/osgeonl.github.io/tree/master/sitecontent/foss4gnl/2019", text: "Presentaties"}
+  - {link: "https://www.eventbrite.nl/", text: "Aanmelden"}
+  #- {link: "https://github.com/osgeonl/osgeonl.github.io/tree/master/sitecontent/foss4gnl/2019", text: "Presentaties"}
 
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "FOSS4GNL 2019"
 eventDate: "20 juni 2019 - Technische Universiteit Delft"
 heroButtons:
-  - {link: "https://github.com/osgeonl/osgeonl.github.io/tree/master/sitecontent/foss4gnl/2019", text: "Presentaties"}
+  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+  - {link: "https://www.eventbrite.nl/", text: "Aanmelden"}
+  #- {link: "https://github.com/osgeonl/osgeonl.github.io/tree/master/sitecontent/foss4gnl/2019", text: "Presentaties"}
 
 # About Block
 aboutTitle: "Over FOSS4GNL 2019"
